@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/home/nikolasmir/Downloads/TheKeeperdev/TheKeeper/Content/WhiteboxLevels/Housewhitebox.umap",
+				"/home/nikolasmir/Downloads/TheKeeperdev/TheKeeper/Content/LevelPrototyping/SM_SM_MERGED_StoveCounter.uasset",
+				"/home/nikolasmir/Downloads/TheKeeperdev/TheKeeper/Content/LevelPrototyping/whiteboxPieces/SM_SM_MERGED_StoveCounter.uasset",
+				"/home/nikolasmir/Downloads/TheKeeperdev/TheKeeper/Content/LevelPrototyping/SM_MERGED_Table.uasset",
+				"/home/nikolasmir/Downloads/TheKeeperdev/TheKeeper/Content/LevelPrototyping/whiteboxPieces/SM_MERGED_Table.uasset",
+				"/home/nikolasmir/Downloads/TheKeeperdev/TheKeeper/Content/LevelPrototyping/whiteboxPieces/SM_MERGED_StaticMeshActor_11.uasset",
+				"/home/nikolasmir/Downloads/TheKeeperdev/TheKeeper/Content/LevelPrototyping/whiteboxPieces/SM_MERGED_bed.uasset",
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"C:/GIT/TheKeeperdev/TheKeeper/Content/d.uasset",
 				"C:/GIT/TheKeeperdev/TheKeeper/Content/Blue.uasset",
