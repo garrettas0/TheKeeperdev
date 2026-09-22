@@ -1491,3 +1491,417 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2026.09.22-00.49.58:208][450]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
 [2026.09.22-00.49.58:364][451]LogPlayLevel: Display: Destroying online subsystem :Context_6
 [2026.09.22-00.50.48:879][417]Cmd: CAMERA ALIGN
+[2026.09.22-00.55.05:008][294]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 702.342102
+[2026.09.22-00.55.06:007][297]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.22-00.55.06:007][298]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 703.008667, Update Interval: 316.078979
+[2026.09.22-00.57.10:189][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.09.22-00.57.10:200][669]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/XY/18GYJZCEGVB57N31MSA5RI_Auto1
+[2026.09.22-00.57.10:200][669]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/18GYJZCEGVB57N31MSA5RI_Auto16AC459694151229186CE10A318DC005D.tmp' to 'F:/TheKeeperdev/TheKeeper/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/XY/18GYJZCEGVB57N31MSA5RI_Auto1.uasset'
+[2026.09.22-00.57.10:202][669]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.051
+[2026.09.22-00.57.10:202][669]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2026.09.22-01.00.29:401][267]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1026.735962
+[2026.09.22-01.00.30:397][270]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.22-01.00.30:399][270]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1027.399170, Update Interval: 334.966888
+[2026.09.22-01.06.17:461][311]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1374.798462
+[2026.09.22-01.06.18:461][314]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.22-01.06.18:461][314]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1375.465454, Update Interval: 312.775665
+[2026.09.22-01.11.51:515][313]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1708.854126
+[2026.09.22-01.11.52:516][316]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.22-01.11.52:516][316]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1709.520508, Update Interval: 305.605042
+[2026.09.22-01.12.06:730][471]Cmd: CAMERA ALIGN
+[2026.09.22-01.12.21:523][ 63]LogStreaming: Display: FlushAsyncLoading(451): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.22-01.12.21:617][ 63]LogInterchangeEngine: Display: Interchange start importing source [F:/Project Keeper/Cubetest2.fbx]
+[2026.09.22-01.12.26:188][ 63]LogSlate: Window 'Import Content' being destroyed
+[2026.09.22-01.12.26:218][ 63]LogInterchangeEngine: [Pending] Importing
+[2026.09.22-01.12.26:331][ 65]LogStreaming: Display: FlushAsyncLoading(452): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.22-01.12.26:372][ 67]LogStaticMesh: Display: Building static mesh Cubetest2 (Required Memory Estimate: 0.026723 MB)...
+[2026.09.22-01.12.26:373][ 67]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2026.09.22-01.12.26:373][ 67]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.09.22-01.12.26:373][ 67]LogStaticMesh: Leaves [0.00s]
+[2026.09.22-01.12.26:373][ 67]LogStaticMesh: Reduce [0.00s]
+[2026.09.22-01.12.26:373][ 67]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.09.22-01.12.26:373][ 67]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2026.09.22-01.12.26:373][ 67]LogStaticMesh: ConstrainClusters:
+[2026.09.22-01.12.26:373][ 67]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 24 Vertices
+[2026.09.22-01.12.26:373][ 67]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2026.09.22-01.12.26:373][ 67]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2026.09.22-01.12.26:373][ 67]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.09.22-01.12.26:373][ 67]LogStaticMesh: WritePages:
+[2026.09.22-01.12.26:373][ 67]LogStaticMesh:   Root: GPU size: 432 bytes. 1 Pages. 432.000 bytes per page (1.318% utilization).
+[2026.09.22-01.12.26:373][ 67]LogStaticMesh:   Streaming: 0 bytes.
+[2026.09.22-01.12.26:373][ 67]LogStaticMesh:   Page data disk size: 592 bytes. Fixup data size: 24 bytes.
+[2026.09.22-01.12.26:373][ 67]LogStaticMesh:   Total GPU size: 432 bytes, Total disk size: 616 bytes.
+[2026.09.22-01.12.26:373][ 67]LogStaticMesh: Encode [0.00s]
+[2026.09.22-01.12.26:373][ 67]LogStaticMesh: NaniteBuild [0.00s]
+[2026.09.22-01.12.26:375][ 67]LogStaticMesh: Built static mesh [0.00s] /Game/Model/Cubetest2.Cubetest2
+[2026.09.22-01.12.26:672][ 69]LogInterchangeEngine: Display: Interchange import completed [F:/Project Keeper/Cubetest2.fbx]
+[2026.09.22-01.12.26:677][ 69]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.09.22-01.12.26:677][ 69]LogInterchangeEngine: [Success] Import Done
+[2026.09.22-01.12.28:326][149]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Cubetest2.Cubetest2
+[2026.09.22-01.12.28:326][149]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Cubetest2.Cubetest2
+[2026.09.22-01.12.28:327][149]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model/Cubetest2.Cubetest2 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_2
+[2026.09.22-01.12.33:248][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.09.22-01.12.33:356][428]LogEditorActor: Deleted 0 Actors (0.136 secs)
+[2026.09.22-01.12.33:363][428]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Cubetest2.Cubetest2
+[2026.09.22-01.12.33:363][428]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Cubetest2.Cubetest2
+[2026.09.22-01.12.33:412][428]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model/Cubetest2.Cubetest2 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BCFCE7E5E412EF0303_1936555064
+[2026.09.22-01.12.39:744][782]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.22-01.12.39:755][782]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.09.22-01.12.39:755][782]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.09.22-01.12.39:775][782]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 19.479 ms (total: 78.319 ms)
+[2026.09.22-01.12.39:775][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.22-01.12.39:775][782]LogPlayLevel: Display: Creating online subsystem for client :Context_7
+[2026.09.22-01.12.39:779][782]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2026.09.22-01.12.39:817][783]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.09.22-01.12.39:892][783]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.09.22-01.12.39:904][783]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 11.602 ms (total: 46.169 ms)
+[2026.09.22-01.12.39:929][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110744s)
+[2026.09.22-01.12.39:929][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.110813s)
+[2026.09.22-01.12.39:955][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.09.22-01.12.39:958][783]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.09.22-01.12.39:961][783]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.09.22-01.12.39:961][783]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.22-01.12.39:961][783]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.22-01.12.39:961][783]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.09.22-01.12.39:982][783]LogWorldPartition: Display: WorldPartition initialize took 20.833 ms (total: 233.152 ms)
+[2026.09.22-01.12.39:982][783]LogPlayLevel: PIE: World Init took: (0.023811s)
+[2026.09.22-01.12.39:984][783]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.09.22-01.12.39:984][783]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.22-01.12.39:984][783]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.22-01.12.39:984][783]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.22-01.12.39:984][783]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.22-01.12.39:984][783]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.22-01.12.39:984][783]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.22-01.12.39:984][783]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.22-01.12.39:984][783]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.22-01.12.39:984][783]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.22-01.12.39:984][783]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.22-01.12.39:984][783]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.22-01.12.39:987][783]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.22-01.12.40:234][783]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.09.22-01.12.40:234][783]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.22-01.12.40:234][783]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.22-01.12.40:234][783]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.22-01.12.40:235][783]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.09.22-01.12.40:235][783]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.09.22-01.12.40:239][783]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.09.22-01.12.40:239][783]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.09.22-01.12.40:240][783]LogInit: FAudioDevice initialized with ID 5.
+[2026.09.22-01.12.40:240][783]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_FirstPerson'.
+[2026.09.22-01.12.40:240][783]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.09.22-01.12.40:246][783]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.09.22-01.12.40:255][783]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2026.09.21-21.12.40
+[2026.09.22-01.12.40:255][783]LogWorld: Bringing up level for play took: 0.009068
+[2026.09.22-01.12.40:267][783]PIE: Server logged in
+[2026.09.22-01.12.40:270][783]PIE: Play in editor total start time 0.516 seconds.
+[2026.09.22-01.12.40:366][784]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.22-01.12.40:454][785]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.09.22-01.12.47:101][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.22-01.12.47:101][178]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.09.22-01.12.47:102][178]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-01.12.47:104][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-01.12.47:104][178]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.09.22-01.12.47:106][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.22-01.12.47:108][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-01.12.47:133][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.22-01.12.47:134][178]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.09.22-01.12.47:134][178]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.09.22-01.12.47:138][178]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.09.22-01.12.47:150][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.09.22-01.12.47:269][179]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2026.09.22-01.13.02:106][ 54]Cmd: DELETE
+[2026.09.22-01.13.02:106][ 54]Cmd: ACTOR DELETE
+[2026.09.22-01.13.02:131][ 54]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.22-01.13.02:163][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.09.22-01.13.02:167][ 54]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2026.09.22-01.13.28:234][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.09.22-01.13.28:237][234]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.027
+[2026.09.22-01.13.28:238][234]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/Cubetest2] ([1] browsable assets)...
+[2026.09.22-01.13.28:355][234]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/Cubetest2.Cubetest2]
+[2026.09.22-01.13.28:356][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Cubetest2]
+[2026.09.22-01.13.28:356][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Cubetest2" FILE="F:/TheKeeperdev/TheKeeper/Saved/Autosaves/Game/Model/Cubetest2_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2026.09.22-01.13.28:360][234]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Model/Cubetest2_Auto2
+[2026.09.22-01.13.28:360][234]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/Cubetest2_Auto2BDC5EE63455590A944E0E5854453B7E9.tmp' to 'F:/TheKeeperdev/TheKeeper/Saved/Autosaves/Game/Model/Cubetest2_Auto2.uasset'
+[2026.09.22-01.13.28:361][234]LogFileHelpers: Auto-saving content packages took 0.125
+[2026.09.22-01.14.45:844][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Cubetest2.Cubetest2
+[2026.09.22-01.14.45:844][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Cubetest2.Cubetest2
+[2026.09.22-01.14.45:845][528]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model/Cubetest2.Cubetest2 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_3
+[2026.09.22-01.14.48:047][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.09.22-01.14.48:049][655]LogEditorActor: Deleted 0 Actors (0.028 secs)
+[2026.09.22-01.14.48:055][655]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Cubetest2.Cubetest2
+[2026.09.22-01.14.48:055][655]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Cubetest2.Cubetest2
+[2026.09.22-01.14.48:104][655]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model/Cubetest2.Cubetest2 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BCFCE7E5E412EF0303_2071247065
+[2026.09.22-01.14.48:748][681]Cmd: DELETE
+[2026.09.22-01.14.48:748][681]Cmd: ACTOR DELETE
+[2026.09.22-01.14.48:766][681]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.22-01.14.48:789][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.09.22-01.14.48:791][681]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.09.22-01.17.51:534][305]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2068.873535
+[2026.09.22-01.17.52:535][308]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.22-01.17.52:535][309]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2069.540283, Update Interval: 331.866821
+[2026.09.22-01.23.28:758][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.09.22-01.23.28:762][348]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.038
+[2026.09.22-01.23.48:391][ 40]LogStreaming: Display: FlushAsyncLoading(453): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.22-01.23.48:478][ 40]LogInterchangeEngine: Display: Interchange start importing source [F:/Project Keeper/Towertest01.fbx]
+[2026.09.22-01.23.51:715][ 40]LogSlate: Window 'Import Content' being destroyed
+[2026.09.22-01.23.51:750][ 40]LogInterchangeEngine: [Pending] Importing
+[2026.09.22-01.23.51:866][ 42]LogStreaming: Display: FlushAsyncLoading(455): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.22-01.23.51:915][ 44]LogStaticMesh: Display: Building static mesh Towertest01 (Required Memory Estimate: 1.202978 MB)...
+[2026.09.22-01.23.51:921][ 44]LogStaticMesh: Adjacency [0.00s], tris: 772, UVs 1
+[2026.09.22-01.23.51:924][ 44]LogStaticMesh: Clustering [0.00s]. Ratio: 1.428571
+[2026.09.22-01.23.51:924][ 44]LogStaticMesh: Leaves [0.00s]
+[2026.09.22-01.23.51:975][ 44]LogStaticMesh: Reduce [0.05s]
+[2026.09.22-01.23.51:999][ 44]LogStaticMesh: Fallback [0.02s], num tris: 447
+[2026.09.22-01.23.52:026][ 44]LogStaticMesh: Fallback [0.03s], num tris: 408
+[2026.09.22-01.23.52:028][ 44]LogStaticMesh: ConstrainClusters:
+[2026.09.22-01.23.52:028][ 44]LogStaticMesh:   Input: 17 Clusters, 1651 Triangles and 2526 Vertices
+[2026.09.22-01.23.52:028][ 44]LogStaticMesh:   Output without splits: 17 Clusters, 1651 Triangles and 2530 Vertices
+[2026.09.22-01.23.52:028][ 44]LogStaticMesh:   Output with splits: 17 Clusters, 1651 Triangles and 2530 Vertices
+[2026.09.22-01.23.52:028][ 44]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 17, Slow Path Clusters: 0, 1 Material: 17, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.09.22-01.23.52:029][ 44]LogStaticMesh: WritePages:
+[2026.09.22-01.23.52:029][ 44]LogStaticMesh:   Root: GPU size: 32244 bytes. 1 Pages. 32244.000 bytes per page (98.401% utilization).
+[2026.09.22-01.23.52:029][ 44]LogStaticMesh:   Streaming: GPU size: 1552 bytes. 1 Pages (1 with relative encoding). 1552.000 bytes per page (1.184% utilization).
+[2026.09.22-01.23.52:030][ 44]LogStaticMesh:   Page data disk size: 26884 bytes. Fixup data size: 192 bytes.
+[2026.09.22-01.23.52:030][ 44]LogStaticMesh:   Total GPU size: 33796 bytes, Total disk size: 27076 bytes.
+[2026.09.22-01.23.52:030][ 44]LogStaticMesh: Encode [0.00s]
+[2026.09.22-01.23.52:030][ 44]LogStaticMesh: NaniteBuild [0.11s]
+[2026.09.22-01.23.52:085][ 46]LogStaticMesh: Built static mesh [0.17s] /Game/Model/Towertest01.Towertest01
+[2026.09.22-01.23.52:092][ 46]LogStaticMesh: Warning: Towertest01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2026.09.22-01.23.52:093][ 46]LogStaticMesh: Warning: Towertest01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.09.22-01.23.53:474][ 47]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 57% occupied, 0 triangles, Towertest01
+[2026.09.22-01.23.53:513][ 48]LogInterchangeEngine: Display: Interchange import completed [F:/Project Keeper/Towertest01.fbx]
+[2026.09.22-01.23.53:513][ 48]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.09.22-01.23.53:513][ 48]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.09.22-01.23.53:513][ 48]LogInterchangeEngine: Display: Interchange start importing source [F:/Project Keeper/Towertest02.fbx]
+[2026.09.22-01.23.53:736][ 54]LogStreaming: Display: FlushAsyncLoading(456): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.22-01.23.53:771][ 56]LogStaticMesh: Display: Building static mesh Towertest02 (Required Memory Estimate: 1.962388 MB)...
+[2026.09.22-01.23.53:785][ 57]LogStaticMesh: Adjacency [0.00s], tris: 1190, UVs 1
+[2026.09.22-01.23.53:794][ 57]LogStaticMesh: Clustering [0.01s]. Ratio: 1.800000
+[2026.09.22-01.23.53:794][ 57]LogStaticMesh: Leaves [0.00s]
+[2026.09.22-01.23.53:854][ 61]LogStaticMesh: Reduce [0.06s]
+[2026.09.22-01.23.53:874][ 62]LogStaticMesh: Fallback [0.02s], num tris: 1108
+[2026.09.22-01.23.53:903][ 64]LogStaticMesh: Fallback [0.03s], num tris: 766
+[2026.09.22-01.23.53:926][ 65]LogStaticMesh: ConstrainClusters:
+[2026.09.22-01.23.53:926][ 65]LogStaticMesh:   Input: 29 Clusters, 2574 Triangles and 6074 Vertices
+[2026.09.22-01.23.53:926][ 65]LogStaticMesh:   Output without splits: 29 Clusters, 2574 Triangles and 6074 Vertices
+[2026.09.22-01.23.53:926][ 65]LogStaticMesh:   Output with splits: 40 Clusters, 2574 Triangles and 6076 Vertices
+[2026.09.22-01.23.53:926][ 65]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 40, Slow Path Clusters: 0, 1 Material: 40, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.09.22-01.23.53:929][ 65]LogStaticMesh: WritePages:
+[2026.09.22-01.23.53:929][ 65]LogStaticMesh:   Root: GPU size: 31804 bytes. 1 Pages. 31804.000 bytes per page (97.058% utilization).
+[2026.09.22-01.23.53:929][ 65]LogStaticMesh:   Streaming: GPU size: 42884 bytes. 1 Pages (1 with relative encoding). 42884.000 bytes per page (32.718% utilization).
+[2026.09.22-01.23.53:929][ 65]LogStaticMesh:   Page data disk size: 59580 bytes. Fixup data size: 264 bytes.
+[2026.09.22-01.23.53:930][ 65]LogStaticMesh:   Total GPU size: 74688 bytes, Total disk size: 59844 bytes.
+[2026.09.22-01.23.53:930][ 65]LogStaticMesh: Encode [0.03s]
+[2026.09.22-01.23.53:930][ 65]LogStaticMesh: NaniteBuild [0.15s]
+[2026.09.22-01.23.53:996][ 69]LogStaticMesh: Built static mesh [0.23s] /Game/Model/Towertest02.Towertest02
+[2026.09.22-01.23.55:590][ 71]LogMeshUtilities: Finished distance field build in 1.6s - 119x112x126 sparse distance field, 1.8Mb total, 0.0Mb always loaded, 59% occupied, 0 triangles, Towertest02
+[2026.09.22-01.23.55:617][ 72]LogInterchangeEngine: Display: Interchange import completed [F:/Project Keeper/Towertest02.fbx]
+[2026.09.22-01.23.55:628][ 72]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.09.22-01.23.55:628][ 72]LogInterchangeEngine: [Success] Import Done
+[2026.09.22-01.23.55:647][ 73]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 57% occupied, 0 triangles, Towertest01
+[2026.09.22-01.24.00:661][338]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Model/Towertest01.Towertest01
+[2026.09.22-01.24.00:686][338]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.09.22-01.24.02:233][338]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2439.572998
+[2026.09.22-01.24.02:448][346]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.22-01.24.02:448][346]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2439.771484, Update Interval: 355.054169
+[2026.09.22-01.24.04:463][458]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-01.24.04:463][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-01.24.04:535][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.09.22-01.24.17:692][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.22-01.24.17:777][208]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/Towertest01] ([1] browsable assets)...
+[2026.09.22-01.24.17:791][208]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/Towertest01.Towertest01]
+[2026.09.22-01.24.17:791][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Towertest01]
+[2026.09.22-01.24.17:791][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Towertest01" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/Towertest01.uasset" SILENT=true
+[2026.09.22-01.24.17:800][208]LogSavePackage: Moving output files for package: /Game/Model/Towertest01
+[2026.09.22-01.24.17:800][208]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/Towertest01DC4711134BE7D917A27C6A8158A2B0FA.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/Towertest01.uasset'
+[2026.09.22-01.24.17:817][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.157 ms (total: 280.433 ms)
+[2026.09.22-01.24.17:904][208]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.22-01.24.17:904][208]LogContentValidation: Enabled validators:
+[2026.09.22-01.24.17:904][208]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.22-01.24.17:904][208]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.22-01.24.17:904][208]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.22-01.24.17:904][208]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.22-01.24.17:904][208]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.22-01.24.17:904][208]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.22-01.24.17:905][208]AssetCheck: /Game/Model/Towertest01 Validating asset
+[2026.09.22-01.24.17:946][208]LogSourceControl: Display: Uncontrolled Changelist persistency file saved F:/TheKeeperdev/TheKeeper/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.22-01.24.20:930][375]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Model/Towertest02.Towertest02
+[2026.09.22-01.24.20:955][375]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.09.22-01.24.28:524][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.22-01.24.28:615][709]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/Towertest02] ([1] browsable assets)...
+[2026.09.22-01.24.28:626][709]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/Towertest02.Towertest02]
+[2026.09.22-01.24.28:626][709]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Towertest02]
+[2026.09.22-01.24.28:626][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Towertest02" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/Towertest02.uasset" SILENT=true
+[2026.09.22-01.24.28:635][709]LogSavePackage: Moving output files for package: /Game/Model/Towertest02
+[2026.09.22-01.24.28:635][709]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/Towertest027B95B0BB4DCBA2C4E1FC7BB9DCAFD3F5.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/Towertest02.uasset'
+[2026.09.22-01.24.28:654][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.456 ms (total: 409.890 ms)
+[2026.09.22-01.24.28:747][709]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.22-01.24.28:747][709]LogContentValidation: Enabled validators:
+[2026.09.22-01.24.28:747][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.22-01.24.28:748][709]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.22-01.24.28:748][709]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.22-01.24.28:748][709]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.22-01.24.28:748][709]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.22-01.24.28:748][709]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.22-01.24.28:748][709]AssetCheck: /Game/Model/Towertest02 Validating asset
+[2026.09.22-01.24.28:784][709]LogSourceControl: Display: Uncontrolled Changelist persistency file saved F:/TheKeeperdev/TheKeeper/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.22-01.24.30:240][795]LogSlate: Window 'Towertest02' being destroyed
+[2026.09.22-01.24.30:260][795]LogSlate: Window 'Towertest02' being destroyed
+[2026.09.22-01.24.30:322][795]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-01.24.30:322][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-01.24.30:397][795]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-01.24.30:397][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-01.24.30:460][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.09.22-01.24.48:745][861]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Towertest02.Towertest02
+[2026.09.22-01.24.48:745][861]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Towertest02.Towertest02
+[2026.09.22-01.24.48:746][861]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model/Towertest02.Towertest02 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_4
+[2026.09.22-01.24.48:748][861]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Towertest01.Towertest01
+[2026.09.22-01.24.48:748][861]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Towertest01.Towertest01
+[2026.09.22-01.24.48:748][861]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model/Towertest01.Towertest01 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_5
+[2026.09.22-01.24.49:953][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.09.22-01.24.49:956][930]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2026.09.22-01.24.49:982][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.09.22-01.24.49:983][930]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2026.09.22-01.24.49:991][930]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Towertest02.Towertest02
+[2026.09.22-01.24.49:992][930]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Towertest02.Towertest02
+[2026.09.22-01.24.50:042][930]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model/Towertest02.Towertest02 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BCFCE7E5E412F00303_1599442242
+[2026.09.22-01.24.50:044][930]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Towertest01.Towertest01
+[2026.09.22-01.24.50:044][930]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/Towertest01.Towertest01
+[2026.09.22-01.24.50:046][930]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model/Towertest01.Towertest01 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_BCFCE7E5E412F00303_1599494243
+[2026.09.22-01.24.50:741][960]Cmd: CAMERA ALIGN
+[2026.09.22-01.24.52:334][ 54]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.22-01.24.52:344][ 54]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.09.22-01.24.52:344][ 54]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2026.09.22-01.24.52:363][ 54]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 19.056 ms (total: 97.376 ms)
+[2026.09.22-01.24.52:364][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.22-01.24.52:364][ 54]LogPlayLevel: Display: Creating online subsystem for client :Context_10
+[2026.09.22-01.24.52:368][ 54]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2026.09.22-01.24.52:408][ 55]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.09.22-01.24.52:484][ 55]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.09.22-01.24.52:496][ 55]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 11.214 ms (total: 57.384 ms)
+[2026.09.22-01.24.52:520][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111422s)
+[2026.09.22-01.24.52:520][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.111493s)
+[2026.09.22-01.24.52:542][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.09.22-01.24.52:545][ 55]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2026.09.22-01.24.52:547][ 55]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.09.22-01.24.52:548][ 55]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.09.22-01.24.52:548][ 55]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.09.22-01.24.52:548][ 55]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.09.22-01.24.52:567][ 55]LogWorldPartition: Display: WorldPartition initialize took 20.334 ms (total: 253.486 ms)
+[2026.09.22-01.24.52:567][ 55]LogPlayLevel: PIE: World Init took: (0.023056s)
+[2026.09.22-01.24.52:568][ 55]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.09.22-01.24.52:568][ 55]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.22-01.24.52:568][ 55]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.22-01.24.52:568][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.22-01.24.52:568][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.22-01.24.52:568][ 55]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.22-01.24.52:568][ 55]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.22-01.24.52:568][ 55]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.22-01.24.52:568][ 55]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.22-01.24.52:568][ 55]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.22-01.24.52:568][ 55]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.22-01.24.52:568][ 55]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.22-01.24.52:572][ 55]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.22-01.24.52:768][ 55]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.09.22-01.24.52:768][ 55]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.22-01.24.52:768][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.22-01.24.52:768][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.22-01.24.52:770][ 55]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.09.22-01.24.52:770][ 55]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.09.22-01.24.52:774][ 55]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.09.22-01.24.52:774][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.09.22-01.24.52:774][ 55]LogInit: FAudioDevice initialized with ID 6.
+[2026.09.22-01.24.52:774][ 55]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_FirstPerson'.
+[2026.09.22-01.24.52:774][ 55]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.09.22-01.24.52:780][ 55]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.09.22-01.24.52:789][ 55]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2026.09.21-21.24.52
+[2026.09.22-01.24.52:789][ 55]LogWorld: Bringing up level for play took: 0.008804
+[2026.09.22-01.24.52:800][ 55]PIE: Server logged in
+[2026.09.22-01.24.52:803][ 55]PIE: Play in editor total start time 0.459 seconds.
+[2026.09.22-01.24.52:900][ 56]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.22-01.24.53:006][ 57]LogRenderer: Warning: [VSM] Non-Nanite Marking Job Queue overflow. Performance may be affected. This occurs when many non-nanite meshes cover a large area of the shadow map.
+[2026.09.22-01.26.01:131][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.22-01.26.01:131][136]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2026.09.22-01.26.01:132][136]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.09.22-01.26.01:134][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-01.26.01:135][136]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2026.09.22-01.26.01:137][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.22-01.26.01:140][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.22-01.26.01:167][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.22-01.26.01:167][136]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.09.22-01.26.01:167][136]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.09.22-01.26.01:170][136]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.09.22-01.26.01:185][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2026.09.22-01.26.01:301][137]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2026.09.22-01.26.11:962][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.09.22-01.26.13:632][730]LogSlate: Window 'Save Content' being destroyed
+[2026.09.22-01.26.15:338][823]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.22-01.26.15:428][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Model/Towertest02] ([1] browsable assets)...
+[2026.09.22-01.26.15:428][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Towertest02]
+[2026.09.22-01.26.15:428][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Towertest02" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/Towertest02.uasset" SILENT=true
+[2026.09.22-01.26.15:436][823]LogSavePackage: Moving output files for package: /Game/Model/Towertest02
+[2026.09.22-01.26.15:437][823]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/Towertest02B6B6BBCA4E16A16FD46EBE88010F5A22.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/Towertest02.uasset'
+[2026.09.22-01.26.15:439][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Model/Towertest01] ([1] browsable assets)...
+[2026.09.22-01.26.15:439][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Towertest01]
+[2026.09.22-01.26.15:439][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Towertest01" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/Towertest01.uasset" SILENT=true
+[2026.09.22-01.26.15:448][823]LogSavePackage: Moving output files for package: /Game/Model/Towertest01
+[2026.09.22-01.26.15:448][823]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/Towertest014F5F93D6470904738EB1EF933B42E2EE.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/Towertest01.uasset'
+[2026.09.22-01.26.15:466][823]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.618 ms (total: 536.509 ms)
+[2026.09.22-01.26.15:555][823]LogContentValidation: Display: Starting to validate 2 assets
+[2026.09.22-01.26.15:556][823]LogContentValidation: Enabled validators:
+[2026.09.22-01.26.15:556][823]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.22-01.26.15:556][823]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.22-01.26.15:556][823]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.22-01.26.15:556][823]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.22-01.26.15:556][823]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.22-01.26.15:556][823]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.22-01.26.15:556][823]AssetCheck: /Game/Model/Towertest02 Validating asset
+[2026.09.22-01.26.15:556][823]AssetCheck: /Game/Model/Towertest01 Validating asset
+[2026.09.22-01.26.18:939][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.09.22-01.26.18:945][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.22-01.26.19:049][  5]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/XY/18GYJZCEGVB57N31MSA5RI
+[2026.09.22-01.26.19:049][  5]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/18GYJZCEGVB57N31MSA5RIF3A39F9A46E01F15E48E0F89B8BC4A15.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/XY/18GYJZCEGVB57N31MSA5RI.uasset'
+[2026.09.22-01.26.19:053][  5]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/04/FI9FZMQKFDYDPAFX8YOI37
+[2026.09.22-01.26.19:053][  5]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/FI9FZMQKFDYDPAFX8YOI371FC308144DD58E61EB588CAB390CDA31.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/04/FI9FZMQKFDYDPAFX8YOI37.uasset'
+[2026.09.22-01.26.19:057][  5]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/JQ/7X2HF7TQT64AOT6PGLVA2H
+[2026.09.22-01.26.19:057][  5]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/7X2HF7TQT64AOT6PGLVA2H2937BB504097485029B328A0D42BDC3E.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/JQ/7X2HF7TQT64AOT6PGLVA2H.uasset'
+[2026.09.22-01.26.19:059][  5]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Model/Cubetest2] ([1] browsable assets)...
+[2026.09.22-01.26.19:059][  5]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Cubetest2]
+[2026.09.22-01.26.19:059][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Cubetest2" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/Cubetest2.uasset" SILENT=true
+[2026.09.22-01.26.19:062][  5]LogSavePackage: Moving output files for package: /Game/Model/Cubetest2
+[2026.09.22-01.26.19:062][  5]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/Cubetest234F0B8D744362E97B5C1A583513A8C08.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/Cubetest2.uasset'
+[2026.09.22-01.26.19:080][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.405 ms (total: 670.915 ms)
+[2026.09.22-01.26.19:172][  5]LogContentValidation: Display: Starting to validate 4 assets
+[2026.09.22-01.26.19:173][  5]LogContentValidation: Enabled validators:
+[2026.09.22-01.26.19:173][  5]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.22-01.26.19:173][  5]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.22-01.26.19:173][  5]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.22-01.26.19:173][  5]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.22-01.26.19:173][  5]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.22-01.26.19:173][  5]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.22-01.26.19:173][  5]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2026.09.22-01.26.19:173][  5]AssetCheck: /Game/Model/Cubetest2 Validating asset
+[2026.09.22-01.26.19:287][  5]LogSourceControl: Display: Uncontrolled Changelist persistency file saved F:/TheKeeperdev/TheKeeper/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.22-01.30.55:351][993]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2852.696533
+[2026.09.22-01.30.56:352][996]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.22-01.30.56:352][996]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2853.363281, Update Interval: 314.550018
+[2026.09.22-01.34.37:833][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.09.22-01.34.37:838][660]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.034
+[2026.09.22-01.37.08:408][112]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3225.757568
+[2026.09.22-01.37.09:418][115]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.22-01.37.09:418][115]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3226.425293, Update Interval: 346.826996
+[2026.09.22-01.43.48:147][311]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3625.497070
+[2026.09.22-01.43.49:147][314]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.22-01.43.49:147][314]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3626.163086, Update Interval: 344.171875
+[2026.09.22-01.44.38:270][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.09.22-01.44.38:273][461]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.032
+[2026.09.22-01.45.08:558][553]LogDerivedDataCache: C:/Users/garre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.09.22-01.45.47:871][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.22-01.45.47:986][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.09.22-01.45.48:009][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.09.22-01.45.48:038][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.09.22-01.45.48:061][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.090 ms (total: 861.005 ms)
