@@ -3202,3 +3202,29 @@ Sampler Limit: 32
 [2026.09.23-23.47.41:818][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.09.23-23.47.41:981][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
 [2026.09.23-23.47.42:060][610]LogRenderer: Using fallback RTPSO
+[2026.09.23-23.47.57:348][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/KP_FuelCan.KP_FuelCan
+[2026.09.23-23.47.57:348][831]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/KP_FuelCan.KP_FuelCan
+[2026.09.23-23.47.57:349][831]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model/KP_FuelCan.KP_FuelCan as actor: StaticMeshActor /Game/WhiteboxLevels/ModelPlayhouse.ModelPlayhouse:PersistentLevel.StaticMeshActor_13
+[2026.09.23-23.47.57:937][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.09.23-23.47.57:942][858]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2026.09.23-23.47.57:950][858]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/KP_FuelCan.KP_FuelCan
+[2026.09.23-23.47.57:950][858]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/KP_FuelCan.KP_FuelCan
+[2026.09.23-23.47.57:953][858]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model/KP_FuelCan.KP_FuelCan as actor: StaticMeshActor /Game/WhiteboxLevels/ModelPlayhouse.ModelPlayhouse:PersistentLevel.StaticMeshActor_14
+[2026.09.23-23.47.58:810][897]Cmd: CAMERA ALIGN
+[2026.09.23-23.48.03:992][195]Cmd: CAMERA ALIGN
+[2026.09.23-23.48.06:919][364]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-23.48.07:022][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WhiteboxLevels/ModelPlayhouse" FILE="F:/TheKeeperdev/TheKeeper/Content/WhiteboxLevels/ModelPlayhouse.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.09.23-23.48.07:090][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.09.23-23.48.07:123][364]LogSavePackage: Moving output files for package: /Game/WhiteboxLevels/ModelPlayhouse
+[2026.09.23-23.48.07:124][364]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/ModelPlayhouse9138D38E44ED0768B05078B2CF44F094.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/WhiteboxLevels/ModelPlayhouse.umap'
+[2026.09.23-23.48.07:150][364]LogFileHelpers: Saving map 'ModelPlayhouse' took 0.127
+[2026.09.23-23.48.07:173][364]LogFileHelpers: InternalPromptForCheckoutAndSave took 253.191 ms (total: 3.49 sec)
+[2026.09.23-23.48.07:279][364]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-23.48.07:279][364]LogContentValidation: Enabled validators:
+[2026.09.23-23.48.07:279][364]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-23.48.07:279][364]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-23.48.07:279][364]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-23.48.07:279][364]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-23.48.07:279][364]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-23.48.07:279][364]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-23.48.07:279][364]AssetCheck: /Game/WhiteboxLevels/ModelPlayhouse Validating asset
