@@ -2464,3 +2464,58 @@ Scale3D: 1.000000 1.000000 1.000000
 [2026.09.23-22.28.19:913][434]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.09.23-22.28.19:913][434]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.09.23-22.28.19:913][434]AssetCheck: /Game/WhiteboxLevels/IslandSet Validating asset
+[2026.09.23-22.29.49:989][317]LogShaderCompilers: Display: ================================================
+[2026.09.23-22.29.49:989][317]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.23-22.29.49:989][317]LogShaderCompilers: Display: Total job queries 625, among them cache hits 62 (9.92%), DDC hits 375 (60.00%), Duplicates 182 (29.12%)
+[2026.09.23-22.29.49:989][317]LogShaderCompilers: Display: Tracking 381 distinct input hashes that result in 264 distinct outputs (69.29%)
+[2026.09.23-22.29.49:989][317]LogShaderCompilers: Display: RAM used: 1.45 MiB of 819.20 MiB budget. Usage: 0.18%
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display: Shaders Compiled: 6
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 0.17 s
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display: Job execution time: average 5.55 s, max 6.90 s
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display: Job life time (pending + execution): average 5.67 s, max 6.91
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display: Shader code size: total 30.695 KiB, numShaders 8, average 3.837 KiB, min 284 B, max 7.246 KiB
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.92 s
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.35%
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display: Average processing rate: 0.87 jobs/sec
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display: Total thread time: 19.285 s
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display: Total thread preprocess time: 20.559 s
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display: Percentage time preprocessing: 106.60%
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display: Effective parallelization: 2.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.348308
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 3.38 sec, max 3.39 sec, min 3.38 sec)
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 2.94 sec, max 3.02 sec, min 2.86 sec)
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 2.53 sec, max 2.53 sec, min 2.53 sec)
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 2.07 sec, max 2.07 sec, min 2.07 sec)
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    2 times, average 1.02 sec, max 1.05 sec, min 0.98 sec)
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 35.08% of total time (compiled    2 times, average 3.38 sec, max 3.39 sec, min 3.38 sec)
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.52% of total time (compiled    2 times, average 2.94 sec, max 3.02 sec, min 2.86 sec)
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.13% of total time (compiled    1 times, average 2.53 sec, max 2.53 sec, min 2.53 sec)
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display:                                                  FHitProxyVS - 10.73% of total time (compiled    1 times, average 2.07 sec, max 2.07 sec, min 2.07 sec)
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 10.54% of total time (compiled    2 times, average 1.02 sec, max 1.05 sec, min 0.98 sec)
+[2026.09.23-22.29.49:990][317]LogShaderCompilers: Display: === Material stats ===
+[2026.09.23-22.29.49:991][317]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.23-22.29.49:991][317]LogShaderCompilers: Display: Materials Translated:    170
+[2026.09.23-22.29.49:991][317]LogShaderCompilers: Display: Material Total Translate Time: 0.34 s
+[2026.09.23-22.29.49:991][317]LogShaderCompilers: Display: Material Translation Only: 0.12 s (35%)
+[2026.09.23-22.29.49:991][317]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.09.23-22.29.49:991][317]LogShaderCompilers: Display: Material Cache Hits: 15 (9%)
+[2026.09.23-22.29.49:991][317]LogShaderCompilers: Display: ================================================
+[2026.09.23-22.31.12:423][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-22.31.12:688][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.09.23-22.31.12:828][806]LogSavePackage: Moving output files for package: /Game/WhiteboxLevels/IslandSet
+[2026.09.23-22.31.12:832][806]LogSavePackage: Moving '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/IslandSetFC70DD424825F2C5EF95AFBED522682C.tmp' to '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Content/WhiteboxLevels/IslandSet.umap'
+[2026.09.23-22.31.12:863][806]LogFileHelpers: Saving map 'IslandSet' took 0.361
+[2026.09.23-22.31.12:895][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 473.182 ms (total: 7.70 sec)
+[2026.09.23-22.31.12:976][806]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-22.31.12:976][806]LogContentValidation: Enabled validators:
+[2026.09.23-22.31.12:976][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-22.31.12:976][806]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-22.31.12:977][806]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-22.31.12:977][806]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-22.31.12:977][806]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-22.31.12:977][806]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-22.31.12:977][806]AssetCheck: /Game/WhiteboxLevels/IslandSet Validating asset
