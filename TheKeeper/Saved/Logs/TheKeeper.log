@@ -1433,3 +1433,1034 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.09.22-23.11.02:974][265]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.09.22-23.11.02:974][265]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.09.22-23.11.02:974][265]AssetCheck: /Game/WhiteboxLevels/IslandSet Validating asset
+[2026.09.22-23.16.39:964][174]LogAutomationController: Ignoring very large delta of 22.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.09.22-23.19.33:623][192]LogAutomationController: Ignoring very large delta of 168.03 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.09.22-23.19.34:203][194]LogHttp: Warning: 000001E6C8063800: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.09.22-23.19.34:203][194]LogHttp: Warning: 000001E6C8063800: libcurl info message cache 0 (Too old connection (227 seconds idle), disconnect it)
+[2026.09.22-23.19.34:203][194]LogHttp: Warning: 000001E6C8063800: libcurl info message cache 1 (Connection 0 seems to be dead)
+[2026.09.22-23.19.34:203][194]LogHttp: Warning: 000001E6C8063800: libcurl info message cache 2 (shutting down connection #0)
+[2026.09.22-23.19.34:203][194]LogHttp: Warning: 000001E6C8063800: libcurl info message cache 3 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2026.09.22-23.19.34:203][194]LogHttp: Warning: 000001E6C8063800: libcurl info message cache 4 (Send failure: Connection was aborted)
+[2026.09.22-23.19.34:203][194]LogHttp: Warning: 000001E6C8063800: libcurl info message cache 5 (Send failure: Connection was aborted)
+[2026.09.22-23.19.34:203][194]LogHttp: Warning: 000001E6C8063800: libcurl info message cache 6 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.09.22-23.19.34:203][194]LogHttp: Warning: 000001E6C8063800: libcurl info message cache 7 (shutting down connection #1)
+[2026.09.22-23.19.34:203][194]LogHttp: Warning: 000001E6C8063800 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB44C725-451A-5BCC-7B5F-06ADAB769456%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=3f2d8548469a663b8cf34da18c0f5350%7Cfa45cddaaca7419a9a7f8acf465a8769%7Cc2a54aee-90bf-460b-a2e1-81f1b570d8ab&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.43s
+[2026.09.23-03.33.28:744][207]LogAutomationController: Ignoring very large delta of 15230.55 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.09.23-03.33.28:907][208]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.09.23-03.33.29:780][211]LogHttp: Warning: 000001E6C8060000: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.09.23-03.33.29:780][211]LogHttp: Warning: 000001E6C8060000: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.09.23-03.33.29:780][211]LogHttp: Warning: 000001E6C8060000: libcurl info message cache 1 (shutting down connection #2)
+[2026.09.23-03.33.29:780][211]LogHttp: Warning: 000001E6C8060000 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB44C725-451A-5BCC-7B5F-06ADAB769456%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=3f2d8548469a663b8cf34da18c0f5350%7Cfa45cddaaca7419a9a7f8acf465a8769%7Cc2a54aee-90bf-460b-a2e1-81f1b570d8ab&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.07s
+[2026.09.23-03.33.31:086][214]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:64110'.
+[2026.09.23-03.33.31:103][214]Could not fetch the local adapter addresses
+[2026.09.23-03.33.31:103][214]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2026.09.23-03.33.31:124][214]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.09.23-03.33.31:179][215]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.09.23-03.33.33:521][219]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:55741'.
+[2026.09.23-03.33.33:560][219]LogUdpMessaging: Display: Added local interface '100.110.77.177' to multicast group '230.0.0.1:6666'
+[2026.09.23-03.33.33:582][219]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.09.23-03.33.34:148][222]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.09.23-03.33.34:149][222]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.09.23-03.33.34:283][222]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2026.09.23-03.33.34:283][222]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.09.23-03.33.34:289][222]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=AudioMixerPlatformInterface. Timeout waiting for h/w.
+[2026.09.23-03.33.35:990][227]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{43cfcba3-adb6-4a7b-b84f-aabd410336e9}, Name=Headphones (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1580.30
+[2026.09.23-03.33.35:993][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.09.23-03.33.35:993][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.09.23-03.33.36:005][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.09.23-03.33.36:616][229]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.09.23-17.14.43:553][230]LogAutomationController: Ignoring very large delta of 49273.11 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.09.23-17.14.44:256][230]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:63276'.
+[2026.09.23-17.14.44:732][230]LogUdpMessaging: Display: Added local interface '100.110.77.177' to multicast group '230.0.0.1:6666'
+[2026.09.23-17.14.44:808][230]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.09.23-17.14.44:941][231]LogHttp: Warning: 000001E6C8064600: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.09.23-17.14.44:941][231]LogHttp: Warning: 000001E6C8064600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.09.23-17.14.44:941][231]LogHttp: Warning: 000001E6C8064600: libcurl info message cache 1 (shutting down connection #3)
+[2026.09.23-17.14.44:941][231]LogHttp: Warning: 000001E6C8064600 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEB44C725-451A-5BCC-7B5F-06ADAB769456%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=3f2d8548469a663b8cf34da18c0f5350%7Cfa45cddaaca7419a9a7f8acf465a8769%7Cc2a54aee-90bf-460b-a2e1-81f1b570d8ab&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.81s
+[2026.09.23-17.29.48:837][709]LogDerivedDataCache: C:/Users/blave/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:35.423 and deleted 68 files with total size 2 MiB and 67 empty folders. Scanned 16885 files in 18595 folders with total size 583 MiB.
+[2026.09.23-19.56.48:176][448]LogAutomationController: Ignoring very large delta of 8572.36 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.09.23-20.07.27:236][195]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-20.07.27:807][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2026.09.23-20.07.27:837][195]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.09.23-20.07.28:062][195]LogSavePackage: Moving output files for package: /Game/WhiteboxLevels/IslandSet
+[2026.09.23-20.07.28:067][195]LogSavePackage: Moving '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/IslandSet429DE13B4BCB8018E66F728EF98E118B.tmp' to '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Content/WhiteboxLevels/IslandSet.umap'
+[2026.09.23-20.07.28:130][195]LogFileHelpers: Saving map 'IslandSet' took 0.781
+[2026.09.23-20.07.28:161][195]LogFileHelpers: InternalPromptForCheckoutAndSave took 925.105 ms (total: 2.27 sec)
+[2026.09.23-20.07.28:254][195]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-20.07.28:255][195]LogContentValidation: Enabled validators:
+[2026.09.23-20.07.28:255][195]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-20.07.28:255][195]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-20.07.28:255][195]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-20.07.28:255][195]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-20.07.28:255][195]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-20.07.28:255][195]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-20.07.28:255][195]AssetCheck: /Game/WhiteboxLevels/IslandSet Validating asset
+[2026.09.23-20.07.39:430][509]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2026.09.23-20.21.55:157][780]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.23-20.21.55:231][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.23-20.21.55:245][780]LogPlayLevel: Creating play world package: /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-20.21.55:364][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.117556s)
+[2026.09.23-20.21.55:364][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteboxLevels/IslandSet.IslandSet to /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet (0.118864s)
+[2026.09.23-20.21.55:485][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.09.23-20.21.55:498][780]LogChaosDD: Creating Chaos Debug Draw Scene for world IslandSet
+[2026.09.23-20.21.55:618][780]LogPlayLevel: PIE: World Init took: (0.123283s)
+[2026.09.23-20.21.55:626][780]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.09.23-20.21.55:629][780]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.23-20.21.55:629][780]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.23-20.21.55:629][780]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.23-20.21.55:630][780]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.23-20.21.55:630][780]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.23-20.21.55:631][780]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.23-20.21.55:631][780]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.23-20.21.55:631][780]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.23-20.21.55:633][780]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.23-20.21.55:633][780]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.23-20.21.55:633][780]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.23-20.21.55:644][780]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.23-20.21.56:457][780]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Realtek(R) Audio)
+[2026.09.23-20.21.56:470][780]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.23-20.21.56:470][780]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.23-20.21.56:475][780]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.23-20.21.56:484][780]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.09.23-20.21.56:484][780]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.09.23-20.21.56:489][780]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.09.23-20.21.56:489][780]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.09.23-20.21.56:491][780]LogInit: FAudioDevice initialized with ID 3.
+[2026.09.23-20.21.56:492][780]LogAudio: Display: Audio Device (ID: 3) registered with world 'IslandSet'.
+[2026.09.23-20.21.56:495][780]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.09.23-20.21.56:625][780]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.09.23-20.21.56:674][780]LogWorld: Bringing World /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet up for play (max tick rate 60) at 2026.09.23-16.21.56
+[2026.09.23-20.21.56:680][780]LogWorld: Bringing up level for play took: 0.039584
+[2026.09.23-20.21.56:714][780]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2026.09.23-20.21.57:018][780]PIE: Server logged in
+[2026.09.23-20.21.57:030][780]PIE: Play in editor total start time 1.835 seconds.
+[2026.09.23-20.21.57:180][780]LogAutomationController: Ignoring very large delta of 2.03 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.09.23-20.23.41:822][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-20.23.41:822][438]LogWorld: BeginTearingDown for /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-20.23.41:845][438]LogWorld: UWorld::CleanupWorld for IslandSet, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-20.23.41:863][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-20.23.41:907][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.23-20.23.41:925][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-20.23.42:098][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-20.23.42:100][438]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.09.23-20.23.42:103][438]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.09.23-20.23.42:204][438]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.09.23-20.23.42:291][438]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2026.09.23-20.23.42:412][439]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.09.23-20.23.55:255][  0]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.23-20.23.55:255][  0]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.23-20.23.55:265][  0]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.StaticMeshActor_0
+[2026.09.23-20.23.55:273][  0]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.StaticMeshActor_0
+[2026.09.23-20.23.56:903][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.09.23-20.23.56:908][ 65]LogEditorActor: Deleted 0 Actors (0.080 secs)
+[2026.09.23-20.23.56:915][ 65]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.23-20.23.56:916][ 65]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.09.23-20.23.56:947][ 65]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.StaticMeshActor_2
+[2026.09.23-20.23.56:948][ 65]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.StaticMeshActor_2
+[2026.09.23-20.24.20:949][ 57]LogStreaming: Display: FlushAsyncLoading(451): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.23-20.24.21:523][ 58]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.09.23-20.24.21:645][ 59]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.09.23-20.24.21:816][ 60]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.09.23-20.24.23:071][108]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2026.09.23-20.24.23:071][108]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2026.09.23-20.24.23:075][108]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple as actor: SkeletalMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.SkeletalMeshActor_0
+[2026.09.23-20.24.23:079][108]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple as actor: SkeletalMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.SkeletalMeshActor_0
+[2026.09.23-20.24.24:076][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.09.23-20.24.24:079][150]LogEditorActor: Deleted 0 Actors (0.064 secs)
+[2026.09.23-20.24.24:090][150]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2026.09.23-20.24.24:090][150]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2026.09.23-20.24.24:096][150]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple as actor: SkeletalMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.SkeletalMeshActor_1
+[2026.09.23-20.24.24:097][150]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple as actor: SkeletalMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.SkeletalMeshActor_1
+[2026.09.23-20.25.19:459][608]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.23-20.25.19:481][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.23-20.25.19:481][608]LogPlayLevel: Creating play world package: /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-20.25.19:508][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026720s)
+[2026.09.23-20.25.19:509][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteboxLevels/IslandSet.IslandSet to /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet (0.026825s)
+[2026.09.23-20.25.19:661][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.09.23-20.25.19:665][608]LogChaosDD: Creating Chaos Debug Draw Scene for world IslandSet
+[2026.09.23-20.25.19:671][608]LogPlayLevel: PIE: World Init took: (0.006239s)
+[2026.09.23-20.25.19:673][608]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.09.23-20.25.19:673][608]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.23-20.25.19:673][608]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.23-20.25.19:673][608]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.23-20.25.19:673][608]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.23-20.25.19:673][608]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.23-20.25.19:673][608]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.23-20.25.19:673][608]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.23-20.25.19:673][608]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.23-20.25.19:673][608]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.23-20.25.19:673][608]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.23-20.25.19:673][608]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.23-20.25.19:677][608]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.23-20.25.20:549][608]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Realtek(R) Audio)
+[2026.09.23-20.25.20:550][608]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.23-20.25.20:550][608]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.23-20.25.20:551][608]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.23-20.25.20:556][608]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.09.23-20.25.20:557][608]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.09.23-20.25.20:561][608]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.09.23-20.25.20:561][608]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.09.23-20.25.20:562][608]LogInit: FAudioDevice initialized with ID 4.
+[2026.09.23-20.25.20:562][608]LogAudio: Display: Audio Device (ID: 4) registered with world 'IslandSet'.
+[2026.09.23-20.25.20:562][608]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.09.23-20.25.20:578][608]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.09.23-20.25.20:588][608]LogWorld: Bringing World /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet up for play (max tick rate 60) at 2026.09.23-16.25.20
+[2026.09.23-20.25.20:590][608]LogWorld: Bringing up level for play took: 0.011351
+[2026.09.23-20.25.20:596][608]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2026.09.23-20.25.20:616][608]PIE: Server logged in
+[2026.09.23-20.25.20:621][608]PIE: Play in editor total start time 1.141 seconds.
+[2026.09.23-20.25.29:739][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-20.25.29:739][ 98]LogWorld: BeginTearingDown for /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-20.25.29:741][ 98]LogWorld: UWorld::CleanupWorld for IslandSet, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-20.25.29:742][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-20.25.29:749][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.23-20.25.29:756][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-20.25.29:871][ 98]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.23-20.25.29:872][ 98]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.09.23-20.25.29:872][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.09.23-20.25.29:875][ 98]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.09.23-20.25.29:897][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-20.25.29:903][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.09.23-20.25.30:155][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2026.09.23-20.25.32:674][213]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.6/Engine/Intermediate/TargetInfo.json" -IncludeAllTargets -DontIncludeParentAssembly]
+[2026.09.23-20.25.49:645][213]LogAutomationController: Ignoring very large delta of 17.10 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.09.23-20.25.55:880][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.09.23-20.25.55:897][552]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2026.09.23-20.25.55:909][552]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.09.23-20.25.56:044][552]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WhiteboxLevels/IslandSet_Auto3
+[2026.09.23-20.25.56:044][552]LogSavePackage: Moving '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/IslandSet_Auto38D5C658D45D415A96521379F7DD5A79E.tmp' to '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/Autosaves/Game/WhiteboxLevels/IslandSet_Auto3.umap'
+[2026.09.23-20.25.56:058][552]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/WhiteboxLevels/IslandSet' took 0.265
+[2026.09.23-20.25.56:058][552]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.265
+[2026.09.23-20.26.03:831][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.23-20.26.03:832][977]LogPlayLevel: Creating play world package: /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-20.26.03:859][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027160s)
+[2026.09.23-20.26.03:859][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteboxLevels/IslandSet.IslandSet to /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet (0.027277s)
+[2026.09.23-20.26.03:926][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.09.23-20.26.03:928][977]LogChaosDD: Creating Chaos Debug Draw Scene for world IslandSet
+[2026.09.23-20.26.03:932][977]LogPlayLevel: PIE: World Init took: (0.003693s)
+[2026.09.23-20.26.03:935][977]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.09.23-20.26.03:935][977]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.23-20.26.03:935][977]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.23-20.26.03:935][977]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.23-20.26.03:935][977]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.23-20.26.03:935][977]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.23-20.26.03:935][977]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.23-20.26.03:935][977]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.23-20.26.03:935][977]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.23-20.26.03:936][977]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.23-20.26.03:936][977]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.23-20.26.03:936][977]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.23-20.26.03:939][977]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.23-20.26.04:548][977]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Realtek(R) Audio)
+[2026.09.23-20.26.04:549][977]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.23-20.26.04:549][977]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.23-20.26.04:549][977]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.23-20.26.04:552][977]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.09.23-20.26.04:552][977]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.09.23-20.26.04:559][977]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.09.23-20.26.04:560][977]LogInit: FAudioDevice initialized with ID 5.
+[2026.09.23-20.26.04:560][977]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.09.23-20.26.04:560][977]LogAudio: Display: Audio Device (ID: 5) registered with world 'IslandSet'.
+[2026.09.23-20.26.04:560][977]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.09.23-20.26.04:636][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-20.26.04:642][977]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.09.23-20.26.04:660][977]LogWorld: Bringing World /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet up for play (max tick rate 60) at 2026.09.23-16.26.04
+[2026.09.23-20.26.04:661][977]LogWorld: Bringing up level for play took: 0.017215
+[2026.09.23-20.26.04:670][977]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2026.09.23-20.26.04:729][977]PIE: Server logged in
+[2026.09.23-20.26.04:737][977]PIE: Play in editor total start time 0.906 seconds.
+[2026.09.23-20.26.04:833][978]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1280"
+[2026.09.23-20.26.04:833][978]LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
+[2026.09.23-20.26.09:167][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-20.26.09:167][227]LogWorld: BeginTearingDown for /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-20.26.09:169][227]LogSlate: Window 'TheKeeper Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2026.09.23-20.26.09:208][227]LogWorld: UWorld::CleanupWorld for IslandSet, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-20.26.09:212][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-20.26.09:216][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.23-20.26.09:223][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-20.26.09:344][227]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.09.23-20.26.09:344][227]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.09.23-20.26.09:348][227]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.09.23-20.26.09:369][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.09.23-20.26.09:491][228]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2026.09.23-20.26.11:604][344]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.09.23-20.26.11:621][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.23-20.26.11:621][344]LogPlayLevel: Creating play world package: /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-20.26.11:638][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016303s)
+[2026.09.23-20.26.11:638][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteboxLevels/IslandSet.IslandSet to /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet (0.016378s)
+[2026.09.23-20.26.11:694][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.09.23-20.26.11:695][344]LogChaosDD: Creating Chaos Debug Draw Scene for world IslandSet
+[2026.09.23-20.26.11:698][344]LogPlayLevel: PIE: World Init took: (0.002205s)
+[2026.09.23-20.26.11:698][344]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.09.23-20.26.11:698][344]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.23-20.26.11:698][344]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.23-20.26.11:698][344]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.23-20.26.11:698][344]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.23-20.26.11:698][344]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.23-20.26.11:698][344]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.23-20.26.11:698][344]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.23-20.26.11:698][344]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.23-20.26.11:698][344]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.23-20.26.11:698][344]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.23-20.26.11:698][344]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.23-20.26.11:702][344]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.23-20.26.12:281][344]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Realtek(R) Audio)
+[2026.09.23-20.26.12:282][344]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.23-20.26.12:282][344]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.23-20.26.12:282][344]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.23-20.26.12:285][344]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.09.23-20.26.12:285][344]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.09.23-20.26.12:293][344]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.09.23-20.26.12:293][344]LogInit: FAudioDevice initialized with ID 6.
+[2026.09.23-20.26.12:293][344]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.09.23-20.26.12:293][344]LogAudio: Display: Audio Device (ID: 6) registered with world 'IslandSet'.
+[2026.09.23-20.26.12:293][344]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.09.23-20.26.12:355][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-20.26.12:356][344]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.09.23-20.26.12:370][344]LogWorld: Bringing World /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet up for play (max tick rate 60) at 2026.09.23-16.26.12
+[2026.09.23-20.26.12:371][344]LogWorld: Bringing up level for play took: 0.012621
+[2026.09.23-20.26.12:380][344]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2026.09.23-20.26.12:408][344]PIE: Server logged in
+[2026.09.23-20.26.12:415][344]PIE: Play in editor total start time 0.793 seconds.
+[2026.09.23-20.26.20:637][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-20.26.20:637][769]LogWorld: BeginTearingDown for /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-20.26.20:640][769]LogSlate: Window 'TheKeeper Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2026.09.23-20.26.20:671][769]LogWorld: UWorld::CleanupWorld for IslandSet, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-20.26.20:676][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-20.26.20:682][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.23-20.26.20:690][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-20.26.20:835][769]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.09.23-20.26.20:835][769]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.09.23-20.26.20:839][769]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.09.23-20.26.20:866][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.09.23-20.26.21:041][770]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2026.09.23-20.26.25:446][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-20.26.25:671][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.09.23-20.26.25:800][999]LogSavePackage: Moving output files for package: /Game/WhiteboxLevels/IslandSet
+[2026.09.23-20.26.25:804][999]LogSavePackage: Moving '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/IslandSetF6854331445C109E10F425938B370D8B.tmp' to '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Content/WhiteboxLevels/IslandSet.umap'
+[2026.09.23-20.26.25:839][999]LogFileHelpers: Saving map 'IslandSet' took 0.318
+[2026.09.23-20.26.25:860][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 414.022 ms (total: 2.68 sec)
+[2026.09.23-20.26.25:934][999]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-20.26.25:934][999]LogContentValidation: Enabled validators:
+[2026.09.23-20.26.25:934][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-20.26.25:934][999]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-20.26.25:934][999]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-20.26.25:935][999]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-20.26.25:935][999]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-20.26.25:935][999]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-20.26.25:935][999]AssetCheck: /Game/WhiteboxLevels/IslandSet Validating asset
+[2026.09.23-20.36.25:957][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.09.23-20.36.25:973][971]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2026.09.23-20.36.25:994][971]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.09.23-20.36.26:070][971]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WhiteboxLevels/IslandSet_Auto4
+[2026.09.23-20.36.26:070][971]LogSavePackage: Moving '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/IslandSet_Auto4676773F1474D7E529ACEBD80D810B2A3.tmp' to '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/Autosaves/Game/WhiteboxLevels/IslandSet_Auto4.umap'
+[2026.09.23-20.36.26:076][971]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/WhiteboxLevels/IslandSet' took 0.220
+[2026.09.23-20.36.26:076][971]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.220
+[2026.09.23-20.43.01:213][833]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2026.09.23-20.46.26:362][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.09.23-20.46.26:386][359]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2026.09.23-20.46.26:398][359]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.09.23-20.46.26:508][359]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WhiteboxLevels/IslandSet_Auto5
+[2026.09.23-20.46.26:508][359]LogSavePackage: Moving '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/IslandSet_Auto5B44B45334181906C7159459853610120.tmp' to '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/Autosaves/Game/WhiteboxLevels/IslandSet_Auto5.umap'
+[2026.09.23-20.46.26:516][359]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/WhiteboxLevels/IslandSet' took 0.267
+[2026.09.23-20.46.26:516][359]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.267
+[2026.09.23-20.52.41:412][588]LogDerivedDataCache: C:/Users/blave/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:36.309 and deleted 88 files with total size 1 MiB and 115 empty folders. Scanned 16817 files in 18528 folders with total size 581 MiB.
+[2026.09.23-20.58.39:197][688]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.09.23-20.58.39:197][688]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.09.23-20.58.39:203][688]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.PostProcessVolume_0
+[2026.09.23-20.58.39:238][688]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.PostProcessVolume_0
+[2026.09.23-20.58.40:717][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.09.23-20.58.40:723][748]LogEditorActor: Deleted 0 Actors (0.059 secs)
+[2026.09.23-20.58.40:730][748]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.09.23-20.58.40:730][748]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.09.23-20.58.40:731][748]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.PostProcessVolume_1
+[2026.09.23-20.58.40:734][748]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.PostProcessVolume_1
+[2026.09.23-20.58.40:919][748]LogStreaming: Display: FlushAsyncLoading(452): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.23-20.59.06:645][ 69]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.09.23-21.02.25:640][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.09.23-21.02.25:660][949]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2026.09.23-21.02.25:680][949]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.09.23-21.02.25:818][949]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WhiteboxLevels/IslandSet_Auto6
+[2026.09.23-21.02.25:819][949]LogSavePackage: Moving '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/IslandSet_Auto614CAA1BF4C1BF244669737B64952EACF.tmp' to '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/Autosaves/Game/WhiteboxLevels/IslandSet_Auto6.umap'
+[2026.09.23-21.02.25:825][949]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/WhiteboxLevels/IslandSet' took 0.291
+[2026.09.23-21.02.25:825][949]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.291
+[2026.09.23-21.04.14:827][ 67]LogSlate: Window 'Color Picker' being destroyed
+[2026.09.23-21.06.31:346][383]Cmd: DELETE
+[2026.09.23-21.06.31:347][383]Cmd: ACTOR DELETE
+[2026.09.23-21.06.31:433][383]LogEditorActor: Deleted Actor: PostProcessVolume
+[2026.09.23-21.06.31:521][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.09.23-21.06.31:523][383]LogEditorActor: Deleted 1 Actors (0.118 secs)
+[2026.09.23-21.06.47:315][224]LogSlate: Window 'Color Picker' being destroyed
+[2026.09.23-21.11.22:376][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-21.11.22:727][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.09.23-21.11.22:848][731]LogSavePackage: Moving output files for package: /Game/WhiteboxLevels/IslandSet
+[2026.09.23-21.11.22:851][731]LogSavePackage: Moving '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/IslandSetA997CF5E4725E9D2F63143866675A942.tmp' to '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Content/WhiteboxLevels/IslandSet.umap'
+[2026.09.23-21.11.22:883][731]LogFileHelpers: Saving map 'IslandSet' took 0.405
+[2026.09.23-21.11.22:909][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 533.935 ms (total: 3.22 sec)
+[2026.09.23-21.11.23:004][731]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-21.11.23:004][731]LogContentValidation: Enabled validators:
+[2026.09.23-21.11.23:004][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-21.11.23:004][731]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-21.11.23:004][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-21.11.23:004][731]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-21.11.23:004][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-21.11.23:004][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-21.11.23:005][731]AssetCheck: /Game/WhiteboxLevels/IslandSet Validating asset
+[2026.09.23-21.11.59:930][ 68]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.09.23-21.11.59:954][ 68]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.23-21.11.59:954][ 68]LogPlayLevel: Creating play world package: /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-21.11.59:980][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025543s)
+[2026.09.23-21.11.59:980][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteboxLevels/IslandSet.IslandSet to /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet (0.025725s)
+[2026.09.23-21.12.00:054][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.09.23-21.12.00:059][ 68]LogChaosDD: Creating Chaos Debug Draw Scene for world IslandSet
+[2026.09.23-21.12.00:064][ 68]LogPlayLevel: PIE: World Init took: (0.005697s)
+[2026.09.23-21.12.00:067][ 68]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.09.23-21.12.00:067][ 68]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.23-21.12.00:067][ 68]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.23-21.12.00:067][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.23-21.12.00:067][ 68]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.23-21.12.00:067][ 68]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.23-21.12.00:067][ 68]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.23-21.12.00:067][ 68]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.23-21.12.00:067][ 68]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.23-21.12.00:067][ 68]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.23-21.12.00:067][ 68]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.23-21.12.00:067][ 68]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.23-21.12.00:071][ 68]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.23-21.12.01:060][ 68]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Realtek(R) Audio)
+[2026.09.23-21.12.01:061][ 68]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.23-21.12.01:061][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.23-21.12.01:061][ 68]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.23-21.12.01:063][ 68]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.09.23-21.12.01:063][ 68]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.09.23-21.12.01:073][ 68]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.09.23-21.12.01:073][ 68]LogInit: FAudioDevice initialized with ID 7.
+[2026.09.23-21.12.01:073][ 68]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.09.23-21.12.01:073][ 68]LogAudio: Display: Audio Device (ID: 7) registered with world 'IslandSet'.
+[2026.09.23-21.12.01:073][ 68]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.09.23-21.12.01:151][ 68]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-21.12.01:153][ 68]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.09.23-21.12.01:168][ 68]LogWorld: Bringing World /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet up for play (max tick rate 60) at 2026.09.23-17.12.01
+[2026.09.23-21.12.01:170][ 68]LogWorld: Bringing up level for play took: 0.015482
+[2026.09.23-21.12.01:176][ 68]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2026.09.23-21.12.01:227][ 68]PIE: Server logged in
+[2026.09.23-21.12.01:239][ 68]PIE: Play in editor total start time 1.286 seconds.
+[2026.09.23-21.12.29:826][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-21.12.29:827][332]LogWorld: BeginTearingDown for /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-21.12.29:828][332]LogSlate: Window 'TheKeeper Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2026.09.23-21.12.29:861][332]LogWorld: UWorld::CleanupWorld for IslandSet, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-21.12.29:864][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-21.12.29:867][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.23-21.12.29:876][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-21.12.29:997][332]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.09.23-21.12.29:998][332]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.09.23-21.12.30:006][332]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.09.23-21.12.30:046][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.09.23-21.12.30:181][333]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2026.09.23-21.18.51:510][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-21.18.51:815][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2026.09.23-21.18.51:840][855]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2026.09.23-21.18.51:852][855]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.09.23-21.18.51:955][855]LogSavePackage: Moving output files for package: /Game/WhiteboxLevels/IslandSet
+[2026.09.23-21.18.51:958][855]LogSavePackage: Moving '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/IslandSet056DE8754CB4FD4251D4F3BAEF44E8E8.tmp' to '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Content/WhiteboxLevels/IslandSet.umap'
+[2026.09.23-21.18.51:991][855]LogFileHelpers: Saving map 'IslandSet' took 0.387
+[2026.09.23-21.18.52:018][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 507.449 ms (total: 3.72 sec)
+[2026.09.23-21.18.52:109][855]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-21.18.52:109][855]LogContentValidation: Enabled validators:
+[2026.09.23-21.18.52:109][855]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-21.18.52:109][855]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-21.18.52:109][855]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-21.18.52:109][855]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-21.18.52:109][855]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-21.18.52:109][855]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-21.18.52:111][855]AssetCheck: /Game/WhiteboxLevels/IslandSet Validating asset
+[2026.09.23-21.19.04:239][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-21.19.04:497][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.09.23-21.19.04:511][322]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2026.09.23-21.19.04:519][322]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.09.23-21.19.04:634][322]LogSavePackage: Moving output files for package: /Game/WhiteboxLevels/IslandSet
+[2026.09.23-21.19.04:637][322]LogSavePackage: Moving '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/IslandSetE98372DF4A95CFB9977732A18C048D42.tmp' to '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Content/WhiteboxLevels/IslandSet.umap'
+[2026.09.23-21.19.04:665][322]LogFileHelpers: Saving map 'IslandSet' took 0.336
+[2026.09.23-21.19.04:691][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 451.019 ms (total: 4.18 sec)
+[2026.09.23-21.19.04:766][322]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-21.19.04:766][322]LogContentValidation: Enabled validators:
+[2026.09.23-21.19.04:766][322]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-21.19.04:766][322]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-21.19.04:766][322]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-21.19.04:766][322]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-21.19.04:766][322]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-21.19.04:766][322]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-21.19.04:767][322]AssetCheck: /Game/WhiteboxLevels/IslandSet Validating asset
+[2026.09.23-21.19.29:422][ 97]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.09.23-21.19.29:444][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.23-21.19.29:445][ 97]LogPlayLevel: Creating play world package: /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-21.19.29:473][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027782s)
+[2026.09.23-21.19.29:473][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteboxLevels/IslandSet.IslandSet to /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet (0.027888s)
+[2026.09.23-21.19.29:545][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.09.23-21.19.29:550][ 97]LogChaosDD: Creating Chaos Debug Draw Scene for world IslandSet
+[2026.09.23-21.19.29:554][ 97]LogPlayLevel: PIE: World Init took: (0.003929s)
+[2026.09.23-21.19.29:555][ 97]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.09.23-21.19.29:555][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.23-21.19.29:555][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.23-21.19.29:555][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.23-21.19.29:555][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.23-21.19.29:555][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.23-21.19.29:555][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.23-21.19.29:555][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.23-21.19.29:555][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.23-21.19.29:555][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.23-21.19.29:555][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.23-21.19.29:555][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.23-21.19.29:561][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.23-21.19.30:301][ 97]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Realtek(R) Audio)
+[2026.09.23-21.19.30:302][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.23-21.19.30:302][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.23-21.19.30:302][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.23-21.19.30:307][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.09.23-21.19.30:307][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.09.23-21.19.30:315][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.09.23-21.19.30:315][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.09.23-21.19.30:315][ 97]LogInit: FAudioDevice initialized with ID 8.
+[2026.09.23-21.19.30:315][ 97]LogAudio: Display: Audio Device (ID: 8) registered with world 'IslandSet'.
+[2026.09.23-21.19.30:315][ 97]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.09.23-21.19.30:391][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-21.19.30:393][ 97]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.09.23-21.19.30:412][ 97]LogWorld: Bringing World /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet up for play (max tick rate 60) at 2026.09.23-17.19.30
+[2026.09.23-21.19.30:414][ 97]LogWorld: Bringing up level for play took: 0.018839
+[2026.09.23-21.19.30:424][ 97]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.09.23-21.19.30:456][ 97]PIE: Server logged in
+[2026.09.23-21.19.30:464][ 97]PIE: Play in editor total start time 1.02 seconds.
+[2026.09.23-21.19.53:505][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-21.19.53:505][154]LogWorld: BeginTearingDown for /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-21.19.53:507][154]LogSlate: Window 'TheKeeper Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2026.09.23-21.19.53:545][154]LogWorld: UWorld::CleanupWorld for IslandSet, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-21.19.53:549][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-21.19.53:553][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.23-21.19.53:561][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-21.19.53:689][154]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.09.23-21.19.53:689][154]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.09.23-21.19.53:697][154]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.09.23-21.19.53:721][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.09.23-21.19.53:847][155]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.09.23-21.29.28:750][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.09.23-21.29.28:774][ 46]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2026.09.23-21.29.28:781][ 46]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.09.23-21.29.28:853][ 46]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WhiteboxLevels/IslandSet_Auto7
+[2026.09.23-21.29.28:853][ 46]LogSavePackage: Moving '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/IslandSet_Auto7D7A6B07C461CAE9C7866A0BDB5E77CDF.tmp' to '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/Autosaves/Game/WhiteboxLevels/IslandSet_Auto7.umap'
+[2026.09.23-21.29.28:860][ 46]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/WhiteboxLevels/IslandSet' took 0.190
+[2026.09.23-21.29.28:860][ 46]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.190
+[2026.09.23-21.52.36:492][152]LogDerivedDataCache: C:/Users/blave/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:31.389 and deleted 0 files with total size 0 MiB and 28 empty folders. Scanned 16729 files in 18413 folders with total size 580 MiB.
+[2026.09.23-21.55.10:935][612]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.09.23-21.55.10:939][612]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.09.23-21.55.12:079][612]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2026.09.23-21.55.12:079][612]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.09.23-21.55.12:084][612]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=AudioMixerPlatformInterface. Timeout waiting for h/w.
+[2026.09.23-21.55.14:738][620]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{43cfcba3-adb6-4a7b-b84f-aabd410336e9}, Name=Headphones (2- Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=2447.02
+[2026.09.23-21.55.14:738][620]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.09.23-21.55.14:738][620]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.09.23-21.55.14:741][620]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.09.23-22.09.16:108][668]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.09.23-22.09.16:192][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.23-22.09.16:216][668]LogPlayLevel: Creating play world package: /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-22.09.16:376][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.159588s)
+[2026.09.23-22.09.16:377][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteboxLevels/IslandSet.IslandSet to /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet (0.161983s)
+[2026.09.23-22.09.16:654][668]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2026.09.23-22.09.16:676][668]LogChaosDD: Creating Chaos Debug Draw Scene for world IslandSet
+[2026.09.23-22.09.16:822][668]LogPlayLevel: PIE: World Init took: (0.149024s)
+[2026.09.23-22.09.16:831][668]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.09.23-22.09.16:833][668]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.23-22.09.16:833][668]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.23-22.09.16:833][668]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.23-22.09.16:833][668]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.23-22.09.16:833][668]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.23-22.09.16:833][668]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.23-22.09.16:833][668]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.23-22.09.16:833][668]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.23-22.09.16:840][668]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.23-22.09.16:841][668]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.23-22.09.16:841][668]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.23-22.09.16:851][668]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.23-22.09.17:582][668]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Realtek(R) Audio)
+[2026.09.23-22.09.17:589][668]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.23-22.09.17:589][668]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.23-22.09.17:591][668]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.23-22.09.17:607][668]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.09.23-22.09.17:607][668]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.09.23-22.09.17:612][668]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.09.23-22.09.17:612][668]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.09.23-22.09.17:613][668]LogInit: FAudioDevice initialized with ID 9.
+[2026.09.23-22.09.17:614][668]LogAudio: Display: Audio Device (ID: 9) registered with world 'IslandSet'.
+[2026.09.23-22.09.17:616][668]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.09.23-22.09.17:728][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.09.17:743][668]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.09.23-22.09.17:823][668]LogWorld: Bringing World /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet up for play (max tick rate 60) at 2026.09.23-18.09.17
+[2026.09.23-22.09.17:833][668]LogWorld: Bringing up level for play took: 0.075148
+[2026.09.23-22.09.17:871][668]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.09.23-22.09.18:099][668]PIE: Server logged in
+[2026.09.23-22.09.18:109][668]PIE: Play in editor total start time 1.947 seconds.
+[2026.09.23-22.09.18:247][668]LogAutomationController: Ignoring very large delta of 2.15 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.09.23-22.09.35:929][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.09.35:929][477]LogWorld: BeginTearingDown for /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-22.09.35:944][477]LogSlate: Window 'TheKeeper Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2026.09.23-22.09.36:003][477]LogWorld: UWorld::CleanupWorld for IslandSet, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-22.09.36:027][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.09.36:064][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.23-22.09.36:074][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.09.36:217][477]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.23-22.09.36:218][477]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.09.23-22.09.36:219][477]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.09.23-22.09.36:223][477]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.09.23-22.09.36:304][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2026.09.23-22.09.36:389][478]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.09.23-22.10.03:394][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-22.10.03:587][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.09.23-22.10.03:599][549]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2026.09.23-22.10.03:608][549]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.09.23-22.10.03:700][549]LogSavePackage: Moving output files for package: /Game/WhiteboxLevels/IslandSet
+[2026.09.23-22.10.03:705][549]LogSavePackage: Moving '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/IslandSet1F2FB8E742D032CE78A31A88E7FF2448.tmp' to '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Content/WhiteboxLevels/IslandSet.umap'
+[2026.09.23-22.10.03:774][549]LogFileHelpers: Saving map 'IslandSet' took 0.307
+[2026.09.23-22.10.03:803][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 409.298 ms (total: 4.58 sec)
+[2026.09.23-22.10.03:924][549]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-22.10.03:924][549]LogContentValidation: Enabled validators:
+[2026.09.23-22.10.03:925][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-22.10.03:925][549]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-22.10.03:925][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-22.10.03:925][549]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-22.10.03:925][549]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-22.10.03:926][549]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-22.10.03:928][549]AssetCheck: /Game/WhiteboxLevels/IslandSet Validating asset
+[2026.09.23-22.13.41:022][105]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.09.23-22.13.42:001][143]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.09.23-22.13.46:327][353]Cmd: TRANSACTION UNDO
+[2026.09.23-22.13.46:328][353]LogEditorTransaction: Undo Brush Add
+[2026.09.23-22.13.49:485][494]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.23-22.13.49:485][494]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.23-22.13.49:486][494]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.StaticMeshActor_3
+[2026.09.23-22.13.49:487][494]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.StaticMeshActor_3
+[2026.09.23-22.13.50:540][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.09.23-22.13.50:545][547]LogEditorActor: Deleted 0 Actors (0.057 secs)
+[2026.09.23-22.13.50:552][547]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.23-22.13.50:552][547]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.23-22.13.50:553][547]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.StaticMeshActor_4
+[2026.09.23-22.13.50:554][547]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.StaticMeshActor_4
+[2026.09.23-22.14.48:784][794]Cmd: TRANSACTION UNDO
+[2026.09.23-22.14.48:784][794]LogEditorTransaction: Undo Scale Elements
+[2026.09.23-22.14.53:431][  4]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.09.23-22.14.53:453][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.23-22.14.53:454][  4]LogPlayLevel: Creating play world package: /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-22.14.53:478][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024732s)
+[2026.09.23-22.14.53:478][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteboxLevels/IslandSet.IslandSet to /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet (0.024821s)
+[2026.09.23-22.14.53:546][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.09.23-22.14.53:550][  4]LogChaosDD: Creating Chaos Debug Draw Scene for world IslandSet
+[2026.09.23-22.14.53:555][  4]LogPlayLevel: PIE: World Init took: (0.004067s)
+[2026.09.23-22.14.53:556][  4]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.09.23-22.14.53:556][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.23-22.14.53:556][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.23-22.14.53:556][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.23-22.14.53:557][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.23-22.14.53:557][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.23-22.14.53:557][  4]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.23-22.14.53:557][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.23-22.14.53:557][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.23-22.14.53:557][  4]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.23-22.14.53:557][  4]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.23-22.14.53:557][  4]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.23-22.14.53:563][  4]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.23-22.14.54:267][  4]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Realtek(R) Audio)
+[2026.09.23-22.14.54:271][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.23-22.14.54:272][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.23-22.14.54:272][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.23-22.14.54:277][  4]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.09.23-22.14.54:277][  4]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.09.23-22.14.54:283][  4]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.09.23-22.14.54:283][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.09.23-22.14.54:283][  4]LogInit: FAudioDevice initialized with ID 10.
+[2026.09.23-22.14.54:283][  4]LogAudio: Display: Audio Device (ID: 10) registered with world 'IslandSet'.
+[2026.09.23-22.14.54:283][  4]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.09.23-22.14.54:348][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.14.54:349][  4]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.09.23-22.14.54:364][  4]LogWorld: Bringing World /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet up for play (max tick rate 60) at 2026.09.23-18.14.54
+[2026.09.23-22.14.54:365][  4]LogWorld: Bringing up level for play took: 0.013841
+[2026.09.23-22.14.54:376][  4]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2026.09.23-22.14.54:403][  4]PIE: Server logged in
+[2026.09.23-22.14.54:409][  4]PIE: Play in editor total start time 0.956 seconds.
+[2026.09.23-22.15.02:094][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.15.02:094][432]LogWorld: BeginTearingDown for /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-22.15.02:095][432]LogSlate: Window 'TheKeeper Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2026.09.23-22.15.02:128][432]LogWorld: UWorld::CleanupWorld for IslandSet, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-22.15.02:130][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.15.02:134][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.23-22.15.02:141][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.15.02:257][432]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.23-22.15.02:258][432]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.09.23-22.15.02:258][432]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.09.23-22.15.02:261][432]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.09.23-22.15.02:277][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.09.23-22.15.02:400][433]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2026.09.23-22.16.21:644][693]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.09.23-22.16.21:666][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.23-22.16.21:666][693]LogPlayLevel: Creating play world package: /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-22.16.21:683][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016848s)
+[2026.09.23-22.16.21:683][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteboxLevels/IslandSet.IslandSet to /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet (0.016921s)
+[2026.09.23-22.16.21:728][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.09.23-22.16.21:730][693]LogChaosDD: Creating Chaos Debug Draw Scene for world IslandSet
+[2026.09.23-22.16.21:731][693]LogPlayLevel: PIE: World Init took: (0.002062s)
+[2026.09.23-22.16.21:733][693]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.09.23-22.16.21:733][693]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.23-22.16.21:733][693]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.23-22.16.21:733][693]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.23-22.16.21:733][693]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.23-22.16.21:733][693]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.23-22.16.21:733][693]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.23-22.16.21:733][693]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.23-22.16.21:733][693]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.23-22.16.21:733][693]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.23-22.16.21:733][693]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.23-22.16.21:733][693]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.23-22.16.21:735][693]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.23-22.16.22:177][693]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Realtek(R) Audio)
+[2026.09.23-22.16.22:179][693]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.23-22.16.22:179][693]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.23-22.16.22:179][693]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.23-22.16.22:183][693]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.09.23-22.16.22:183][693]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.09.23-22.16.22:189][693]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.09.23-22.16.22:189][693]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.09.23-22.16.22:189][693]LogInit: FAudioDevice initialized with ID 11.
+[2026.09.23-22.16.22:189][693]LogAudio: Display: Audio Device (ID: 11) registered with world 'IslandSet'.
+[2026.09.23-22.16.22:189][693]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.09.23-22.16.22:260][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.16.22:261][693]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.09.23-22.16.22:266][693]LogWorld: Bringing World /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet up for play (max tick rate 60) at 2026.09.23-18.16.22
+[2026.09.23-22.16.22:266][693]LogWorld: Bringing up level for play took: 0.005354
+[2026.09.23-22.16.22:269][693]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.09.23-22.16.22:286][693]PIE: Server logged in
+[2026.09.23-22.16.22:290][693]PIE: Play in editor total start time 0.627 seconds.
+[2026.09.23-22.16.30:362][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.16.30:362][136]LogWorld: BeginTearingDown for /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-22.16.30:363][136]LogSlate: Window 'TheKeeper Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2026.09.23-22.16.30:396][136]LogWorld: UWorld::CleanupWorld for IslandSet, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-22.16.30:401][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.16.30:405][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.23-22.16.30:415][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.16.30:535][136]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.09.23-22.16.30:535][136]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.09.23-22.16.30:541][136]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.09.23-22.16.30:557][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2026.09.23-22.16.30:710][137]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.09.23-22.17.13:706][465]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.23-22.17.13:706][465]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.23-22.17.13:707][465]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.StaticMeshActor_7
+[2026.09.23-22.17.13:709][465]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.StaticMeshActor_7
+[2026.09.23-22.17.14:745][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.09.23-22.17.14:748][509]LogEditorActor: Deleted 0 Actors (0.065 secs)
+[2026.09.23-22.17.14:756][509]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.23-22.17.14:756][509]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2026.09.23-22.17.14:759][509]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.StaticMeshActor_8
+[2026.09.23-22.17.14:759][509]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.StaticMeshActor_8
+[2026.09.23-22.18.19:172][894]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.09.23-22.18.19:193][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.23-22.18.19:193][894]LogPlayLevel: Creating play world package: /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-22.18.19:213][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020485s)
+[2026.09.23-22.18.19:213][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteboxLevels/IslandSet.IslandSet to /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet (0.020590s)
+[2026.09.23-22.18.19:275][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.09.23-22.18.19:279][894]LogChaosDD: Creating Chaos Debug Draw Scene for world IslandSet
+[2026.09.23-22.18.19:282][894]LogPlayLevel: PIE: World Init took: (0.003551s)
+[2026.09.23-22.18.19:284][894]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.09.23-22.18.19:284][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.23-22.18.19:284][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.23-22.18.19:284][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.23-22.18.19:285][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.23-22.18.19:285][894]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.23-22.18.19:285][894]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.23-22.18.19:285][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.23-22.18.19:285][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.23-22.18.19:286][894]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.23-22.18.19:286][894]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.23-22.18.19:286][894]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.23-22.18.19:291][894]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.23-22.18.20:061][894]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Realtek(R) Audio)
+[2026.09.23-22.18.20:063][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.23-22.18.20:063][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.23-22.18.20:063][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.23-22.18.20:066][894]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.09.23-22.18.20:066][894]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.09.23-22.18.20:074][894]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.09.23-22.18.20:075][894]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.09.23-22.18.20:076][894]LogInit: FAudioDevice initialized with ID 12.
+[2026.09.23-22.18.20:077][894]LogAudio: Display: Audio Device (ID: 12) registered with world 'IslandSet'.
+[2026.09.23-22.18.20:077][894]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.09.23-22.18.20:183][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.18.20:184][894]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.09.23-22.18.20:204][894]LogWorld: Bringing World /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet up for play (max tick rate 60) at 2026.09.23-18.18.20
+[2026.09.23-22.18.20:205][894]LogWorld: Bringing up level for play took: 0.019692
+[2026.09.23-22.18.20:216][894]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2026.09.23-22.18.20:240][894]PIE: Server logged in
+[2026.09.23-22.18.20:249][894]PIE: Play in editor total start time 1.057 seconds.
+[2026.09.23-22.19.32:311][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.19.32:311][794]LogWorld: BeginTearingDown for /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-22.19.32:312][794]LogSlate: Window 'TheKeeper Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2026.09.23-22.19.32:348][794]LogWorld: UWorld::CleanupWorld for IslandSet, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-22.19.32:352][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.19.32:356][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.23-22.19.32:366][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.19.32:504][794]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.09.23-22.19.32:504][794]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.09.23-22.19.32:511][794]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.09.23-22.19.32:531][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.09.23-22.19.32:692][795]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2026.09.23-22.20.48:146][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-22.20.48:473][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.09.23-22.20.48:494][966]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2026.09.23-22.20.48:504][966]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.09.23-22.20.48:614][966]LogSavePackage: Moving output files for package: /Game/WhiteboxLevels/IslandSet
+[2026.09.23-22.20.48:618][966]LogSavePackage: Moving '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/IslandSetA4331B484666298663264C9ECC18E70F.tmp' to '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Content/WhiteboxLevels/IslandSet.umap'
+[2026.09.23-22.20.48:654][966]LogFileHelpers: Saving map 'IslandSet' took 0.413
+[2026.09.23-22.20.48:684][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 536.094 ms (total: 5.12 sec)
+[2026.09.23-22.20.48:771][966]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-22.20.48:771][966]LogContentValidation: Enabled validators:
+[2026.09.23-22.20.48:771][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-22.20.48:771][966]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-22.20.48:771][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-22.20.48:773][966]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-22.20.48:774][966]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-22.20.48:774][966]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-22.20.48:774][966]AssetCheck: /Game/WhiteboxLevels/IslandSet Validating asset
+[2026.09.23-22.21.00:834][524]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.09.23-22.21.00:834][524]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.09.23-22.21.00:835][524]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.StaticMeshActor_9
+[2026.09.23-22.21.00:836][524]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.StaticMeshActor_9
+[2026.09.23-22.21.02:745][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.09.23-22.21.02:750][609]LogEditorActor: Deleted 0 Actors (0.072 secs)
+[2026.09.23-22.21.02:758][609]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.09.23-22.21.02:758][609]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2026.09.23-22.21.02:760][609]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.StaticMeshActor_10
+[2026.09.23-22.21.02:761][609]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.StaticMeshActor_10
+[2026.09.23-22.21.49:213][925]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.09.23-22.21.49:236][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.23-22.21.49:236][925]LogPlayLevel: Creating play world package: /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-22.21.49:268][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031059s)
+[2026.09.23-22.21.49:269][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteboxLevels/IslandSet.IslandSet to /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet (0.031176s)
+[2026.09.23-22.21.49:366][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.09.23-22.21.49:370][925]LogChaosDD: Creating Chaos Debug Draw Scene for world IslandSet
+[2026.09.23-22.21.49:373][925]LogPlayLevel: PIE: World Init took: (0.003163s)
+[2026.09.23-22.21.49:375][925]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.09.23-22.21.49:375][925]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.23-22.21.49:375][925]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.23-22.21.49:375][925]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.23-22.21.49:375][925]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.23-22.21.49:375][925]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.23-22.21.49:375][925]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.23-22.21.49:375][925]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.23-22.21.49:375][925]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.23-22.21.49:375][925]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.23-22.21.49:375][925]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.23-22.21.49:375][925]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.23-22.21.49:378][925]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.23-22.21.50:021][925]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Realtek(R) Audio)
+[2026.09.23-22.21.50:023][925]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.23-22.21.50:023][925]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.23-22.21.50:023][925]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.23-22.21.50:024][925]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.09.23-22.21.50:024][925]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.09.23-22.21.50:029][925]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.09.23-22.21.50:029][925]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.09.23-22.21.50:029][925]LogInit: FAudioDevice initialized with ID 13.
+[2026.09.23-22.21.50:029][925]LogAudio: Display: Audio Device (ID: 13) registered with world 'IslandSet'.
+[2026.09.23-22.21.50:029][925]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.09.23-22.21.50:103][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.21.50:104][925]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.09.23-22.21.50:121][925]LogWorld: Bringing World /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet up for play (max tick rate 60) at 2026.09.23-18.21.50
+[2026.09.23-22.21.50:124][925]LogWorld: Bringing up level for play took: 0.018111
+[2026.09.23-22.21.50:134][925]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.09.23-22.21.50:160][925]PIE: Server logged in
+[2026.09.23-22.21.50:166][925]PIE: Play in editor total start time 0.929 seconds.
+[2026.09.23-22.22.00:031][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.22.00:031][432]LogWorld: BeginTearingDown for /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-22.22.00:033][432]LogSlate: Window 'TheKeeper Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2026.09.23-22.22.00:071][432]LogWorld: UWorld::CleanupWorld for IslandSet, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-22.22.00:075][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.22.00:081][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.23-22.22.00:089][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.22.00:211][432]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.09.23-22.22.00:212][432]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.09.23-22.22.00:216][432]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.09.23-22.22.00:245][432]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2026.09.23-22.22.00:428][433]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2026.09.23-22.22.06:167][731]Cmd: DUPLICATE
+[2026.09.23-22.22.06:167][731]Cmd: ACTOR DUPLICATE
+[2026.09.23-22.22.36:718][276]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.09.23-22.22.36:740][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.23-22.22.36:740][276]LogPlayLevel: Creating play world package: /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-22.22.36:765][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024236s)
+[2026.09.23-22.22.36:765][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteboxLevels/IslandSet.IslandSet to /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet (0.024330s)
+[2026.09.23-22.22.36:825][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.09.23-22.22.36:827][276]LogChaosDD: Creating Chaos Debug Draw Scene for world IslandSet
+[2026.09.23-22.22.36:830][276]LogPlayLevel: PIE: World Init took: (0.003015s)
+[2026.09.23-22.22.36:832][276]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.09.23-22.22.36:832][276]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.23-22.22.36:832][276]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.23-22.22.36:832][276]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.23-22.22.36:833][276]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.23-22.22.36:833][276]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.23-22.22.36:833][276]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.23-22.22.36:833][276]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.23-22.22.36:833][276]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.23-22.22.36:833][276]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.23-22.22.36:833][276]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.23-22.22.36:833][276]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.23-22.22.36:858][276]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.23-22.22.37:464][276]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Realtek(R) Audio)
+[2026.09.23-22.22.37:465][276]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.23-22.22.37:465][276]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.23-22.22.37:465][276]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.23-22.22.37:468][276]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.09.23-22.22.37:468][276]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.09.23-22.22.37:479][276]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.09.23-22.22.37:479][276]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.09.23-22.22.37:479][276]LogInit: FAudioDevice initialized with ID 14.
+[2026.09.23-22.22.37:479][276]LogAudio: Display: Audio Device (ID: 14) registered with world 'IslandSet'.
+[2026.09.23-22.22.37:480][276]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.09.23-22.22.37:565][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.22.37:566][276]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.09.23-22.22.37:585][276]LogWorld: Bringing World /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet up for play (max tick rate 60) at 2026.09.23-18.22.37
+[2026.09.23-22.22.37:586][276]LogWorld: Bringing up level for play took: 0.017475
+[2026.09.23-22.22.37:593][276]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2026.09.23-22.22.37:610][276]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7586.765 Y=-18148.001 Z=719.535] for [BP_FirstPersonCharacter_C]
+[2026.09.23-22.22.37:612][276]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_FirstPersonCharacter_C at Rotation: Pitch 0.000000 Yaw -77.524801 Roll 0.000000
+Translation: -7586.764914 -18148.001188 719.534900
+Scale3D: 1.000000 1.000000 1.000000
+
+[2026.09.23-22.22.37:624][276]PIE: Server logged in
+[2026.09.23-22.22.37:633][276]PIE: Play in editor total start time 0.892 seconds.
+[2026.09.23-22.22.40:320][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.22.40:320][422]LogWorld: BeginTearingDown for /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-22.22.40:321][422]LogSlate: Window 'TheKeeper Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2026.09.23-22.22.40:352][422]LogWorld: UWorld::CleanupWorld for IslandSet, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-22.22.40:354][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.22.40:358][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.23-22.22.40:364][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.22.40:479][422]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.09.23-22.22.40:480][422]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2026.09.23-22.22.40:484][422]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2026.09.23-22.22.40:501][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.09.23-22.22.40:643][423]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.09.23-22.22.44:915][633]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.09.23-22.22.44:945][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.23-22.22.44:945][633]LogPlayLevel: Creating play world package: /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-22.22.44:975][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029375s)
+[2026.09.23-22.22.44:975][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteboxLevels/IslandSet.IslandSet to /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet (0.029525s)
+[2026.09.23-22.22.45:067][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.09.23-22.22.45:071][633]LogChaosDD: Creating Chaos Debug Draw Scene for world IslandSet
+[2026.09.23-22.22.45:074][633]LogPlayLevel: PIE: World Init took: (0.002991s)
+[2026.09.23-22.22.45:076][633]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.09.23-22.22.45:076][633]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.23-22.22.45:076][633]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.23-22.22.45:076][633]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.23-22.22.45:076][633]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.23-22.22.45:076][633]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.23-22.22.45:076][633]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.23-22.22.45:076][633]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.23-22.22.45:077][633]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.23-22.22.45:077][633]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.23-22.22.45:077][633]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.23-22.22.45:077][633]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.23-22.22.45:079][633]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.23-22.22.45:865][633]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Realtek(R) Audio)
+[2026.09.23-22.22.45:866][633]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.23-22.22.45:866][633]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.23-22.22.45:866][633]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.23-22.22.45:867][633]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.09.23-22.22.45:867][633]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.09.23-22.22.45:875][633]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.09.23-22.22.45:875][633]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.09.23-22.22.45:875][633]LogInit: FAudioDevice initialized with ID 15.
+[2026.09.23-22.22.45:875][633]LogAudio: Display: Audio Device (ID: 15) registered with world 'IslandSet'.
+[2026.09.23-22.22.45:876][633]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.09.23-22.22.45:964][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.22.45:965][633]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.09.23-22.22.45:979][633]LogWorld: Bringing World /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet up for play (max tick rate 60) at 2026.09.23-18.22.45
+[2026.09.23-22.22.45:980][633]LogWorld: Bringing up level for play took: 0.013374
+[2026.09.23-22.22.45:987][633]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2026.09.23-22.22.46:007][633]PIE: Server logged in
+[2026.09.23-22.22.46:012][633]PIE: Play in editor total start time 1.07 seconds.
+[2026.09.23-22.22.59:381][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.22.59:381][369]LogWorld: BeginTearingDown for /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-22.22.59:382][369]LogSlate: Window 'TheKeeper Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2026.09.23-22.22.59:424][369]LogWorld: UWorld::CleanupWorld for IslandSet, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-22.22.59:430][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.22.59:435][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.23-22.22.59:443][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.22.59:574][369]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.09.23-22.22.59:574][369]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2026.09.23-22.22.59:580][369]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2026.09.23-22.22.59:606][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.09.23-22.22.59:670][370]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.09.23-22.23.01:744][492]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-22.23.02:011][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.09.23-22.23.02:149][492]LogSavePackage: Moving output files for package: /Game/WhiteboxLevels/IslandSet
+[2026.09.23-22.23.02:155][492]LogSavePackage: Moving '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/IslandSet36A08BA54FA7BB80C05D48AA9C8E1269.tmp' to '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Content/WhiteboxLevels/IslandSet.umap'
+[2026.09.23-22.23.02:229][492]LogFileHelpers: Saving map 'IslandSet' took 0.397
+[2026.09.23-22.23.02:262][492]LogFileHelpers: InternalPromptForCheckoutAndSave took 517.923 ms (total: 5.64 sec)
+[2026.09.23-22.23.02:344][492]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-22.23.02:344][492]LogContentValidation: Enabled validators:
+[2026.09.23-22.23.02:345][492]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-22.23.02:345][492]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-22.23.02:345][492]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-22.23.02:345][492]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-22.23.02:345][492]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-22.23.02:345][492]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-22.23.02:347][492]AssetCheck: /Game/WhiteboxLevels/IslandSet Validating asset
+[2026.09.23-22.25.16:716][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-22.25.17:027][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.09.23-22.25.17:049][428]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2026.09.23-22.25.17:062][428]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.09.23-22.25.17:165][428]LogSavePackage: Moving output files for package: /Game/WhiteboxLevels/IslandSet
+[2026.09.23-22.25.17:172][428]LogSavePackage: Moving '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/IslandSet775E6BB94FAAA29F01CA389BBF2AE83F.tmp' to '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Content/WhiteboxLevels/IslandSet.umap'
+[2026.09.23-22.25.17:241][428]LogFileHelpers: Saving map 'IslandSet' took 0.441
+[2026.09.23-22.25.17:290][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 573.593 ms (total: 6.21 sec)
+[2026.09.23-22.25.17:409][428]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-22.25.17:409][428]LogContentValidation: Enabled validators:
+[2026.09.23-22.25.17:410][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-22.25.17:410][428]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-22.25.17:410][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-22.25.17:410][428]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-22.25.17:410][428]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-22.25.17:410][428]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-22.25.17:410][428]AssetCheck: /Game/WhiteboxLevels/IslandSet Validating asset
+[2026.09.23-22.26.11:075][ 45]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2026.09.23-22.26.36:746][ 43]LogSlate: Took 0.014205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.09.23-22.27.06:737][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-22.27.07:017][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.09.23-22.27.07:032][322]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2026.09.23-22.27.07:040][322]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.09.23-22.27.07:171][322]LogSavePackage: Moving output files for package: /Game/WhiteboxLevels/IslandSet
+[2026.09.23-22.27.07:176][322]LogSavePackage: Moving '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/IslandSet0BBFDB5C46F1A09FFCF6FA8D300EF0B4.tmp' to '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Content/WhiteboxLevels/IslandSet.umap'
+[2026.09.23-22.27.07:235][322]LogFileHelpers: Saving map 'IslandSet' took 0.413
+[2026.09.23-22.27.07:267][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 530.021 ms (total: 6.74 sec)
+[2026.09.23-22.27.07:363][322]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-22.27.07:363][322]LogContentValidation: Enabled validators:
+[2026.09.23-22.27.07:363][322]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-22.27.07:363][322]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-22.27.07:363][322]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-22.27.07:363][322]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-22.27.07:363][322]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-22.27.07:363][322]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-22.27.07:364][322]AssetCheck: /Game/WhiteboxLevels/IslandSet Validating asset
+[2026.09.23-22.28.19:359][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-22.28.19:645][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.09.23-22.28.19:663][434]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2026.09.23-22.28.19:674][434]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.09.23-22.28.19:773][434]LogSavePackage: Moving output files for package: /Game/WhiteboxLevels/IslandSet
+[2026.09.23-22.28.19:776][434]LogSavePackage: Moving '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/IslandSetCB60B9854DD91A197D546A87DC090853.tmp' to '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Content/WhiteboxLevels/IslandSet.umap'
+[2026.09.23-22.28.19:807][434]LogFileHelpers: Saving map 'IslandSet' took 0.355
+[2026.09.23-22.28.19:841][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 482.639 ms (total: 7.23 sec)
+[2026.09.23-22.28.19:913][434]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-22.28.19:913][434]LogContentValidation: Enabled validators:
+[2026.09.23-22.28.19:913][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-22.28.19:913][434]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-22.28.19:913][434]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-22.28.19:913][434]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-22.28.19:913][434]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-22.28.19:913][434]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-22.28.19:913][434]AssetCheck: /Game/WhiteboxLevels/IslandSet Validating asset
