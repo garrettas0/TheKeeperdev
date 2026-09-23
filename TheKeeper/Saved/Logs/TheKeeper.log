@@ -2333,3 +2333,344 @@ Sampler Limit: 32
 [2026.09.23-22.06.13:606][738]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
 [2026.09.23-22.06.13:620][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
 [2026.09.23-22.06.13:749][739]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2026.09.23-22.09.05:991][617]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1026.128296
+[2026.09.23-22.09.06:991][620]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-22.09.06:991][620]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1026.795288, Update Interval: 330.546600
+[2026.09.23-22.14.46:716][639]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1366.854614
+[2026.09.23-22.14.47:718][642]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-22.14.47:718][643]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1367.521973, Update Interval: 308.426758
+[2026.09.23-22.16.12:528][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.09.23-22.16.12:531][896]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/WhiteboxLevels/ModelPlayhouse' took 0.038
+[2026.09.23-22.16.12:532][896]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/KP_House] ([1] browsable assets)...
+[2026.09.23-22.16.12:717][896]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/KP_House.KP_House]
+[2026.09.23-22.16.12:717][896]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/KP_House]
+[2026.09.23-22.16.12:718][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/KP_House" FILE="F:/TheKeeperdev/TheKeeper/Saved/Autosaves/Game/Model/KP_House_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2026.09.23-22.16.12:727][896]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Model/KP_House_Auto2
+[2026.09.23-22.16.12:727][896]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/KP_House_Auto2CF71B06C4AC0C8705493CD8A44FAA895.tmp' to 'F:/TheKeeperdev/TheKeeper/Saved/Autosaves/Game/Model/KP_House_Auto2.uasset'
+[2026.09.23-22.16.12:728][896]LogFileHelpers: Auto-saving content packages took 0.197
+[2026.09.23-22.20.14:209][622]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1694.345581
+[2026.09.23-22.20.15:207][624]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-22.20.15:207][624]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1695.011353, Update Interval: 325.348053
+[2026.09.23-22.26.33:938][761]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2074.074463
+[2026.09.23-22.26.34:935][763]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-22.26.34:935][763]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2074.739502, Update Interval: 301.175568
+[2026.09.23-22.28.12:539][154]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-22.28.12:640][154]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Model/KP_House] ([1] browsable assets)...
+[2026.09.23-22.28.12:640][154]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/KP_House]
+[2026.09.23-22.28.12:640][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/KP_House" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/KP_House.uasset" SILENT=true
+[2026.09.23-22.28.12:648][154]LogSavePackage: Moving output files for package: /Game/Model/KP_House
+[2026.09.23-22.28.12:649][154]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/KP_HouseFF6A022C40291E1F330D5C9A47B11F45.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/KP_House.uasset'
+[2026.09.23-22.28.12:673][154]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.720 ms (total: 1.54 sec)
+[2026.09.23-22.28.12:772][154]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-22.28.12:772][154]LogContentValidation: Enabled validators:
+[2026.09.23-22.28.12:772][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-22.28.12:772][154]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-22.28.12:772][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-22.28.12:772][154]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-22.28.12:772][154]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-22.28.12:772][154]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-22.28.12:772][154]AssetCheck: /Game/Model/KP_House Validating asset
+[2026.09.23-22.28.27:703][454]LogStreaming: Display: FlushAsyncLoading(583): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.23-22.28.27:799][454]LogInterchangeEngine: Display: Interchange start importing source [F:/Project Keeper/KP_HouseStairs.fbx]
+[2026.09.23-22.28.34:116][454]LogSlate: Window 'Import Content' being destroyed
+[2026.09.23-22.28.34:171][454]LogInterchangeEngine: [Pending] Importing
+[2026.09.23-22.28.34:504][456]LogStreaming: Display: FlushAsyncLoading(584): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.23-22.28.34:577][458]LogStaticMesh: Display: Building static mesh KP_HouseStairs (Required Memory Estimate: 0.202101 MB)...
+[2026.09.23-22.28.34:577][458]LogStaticMesh: Adjacency [0.00s], tris: 120, UVs 1
+[2026.09.23-22.28.34:578][458]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.09.23-22.28.34:578][458]LogStaticMesh: Leaves [0.00s]
+[2026.09.23-22.28.34:578][458]LogStaticMesh: Reduce [0.00s]
+[2026.09.23-22.28.34:578][458]LogStaticMesh: Fallback [0.00s], num tris: 120
+[2026.09.23-22.28.34:579][458]LogStaticMesh: Fallback [0.00s], num tris: 120
+[2026.09.23-22.28.34:579][458]LogStaticMesh: ConstrainClusters:
+[2026.09.23-22.28.34:579][458]LogStaticMesh:   Input: 1 Clusters, 120 Triangles and 240 Vertices
+[2026.09.23-22.28.34:579][458]LogStaticMesh:   Output without splits: 1 Clusters, 120 Triangles and 240 Vertices
+[2026.09.23-22.28.34:579][458]LogStaticMesh:   Output with splits: 1 Clusters, 120 Triangles and 240 Vertices
+[2026.09.23-22.28.34:579][458]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.09.23-22.28.34:579][458]LogStaticMesh: WritePages:
+[2026.09.23-22.28.34:579][458]LogStaticMesh:   Root: GPU size: 2804 bytes. 1 Pages. 2804.000 bytes per page (8.557% utilization).
+[2026.09.23-22.28.34:579][458]LogStaticMesh:   Streaming: 0 bytes.
+[2026.09.23-22.28.34:579][458]LogStaticMesh:   Page data disk size: 3204 bytes. Fixup data size: 24 bytes.
+[2026.09.23-22.28.34:579][458]LogStaticMesh:   Total GPU size: 2804 bytes, Total disk size: 3228 bytes.
+[2026.09.23-22.28.34:579][458]LogStaticMesh: Encode [0.00s]
+[2026.09.23-22.28.34:579][458]LogStaticMesh: NaniteBuild [0.00s]
+[2026.09.23-22.28.34:590][458]LogStaticMesh: Built static mesh [0.01s] /Game/Model/KP_HouseStairs.KP_HouseStairs
+[2026.09.23-22.28.34:685][459]LogInterchangeEngine: Display: Interchange import completed [F:/Project Keeper/KP_HouseStairs.fbx]
+[2026.09.23-22.28.34:691][459]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.09.23-22.28.34:691][459]LogInterchangeEngine: [Success] Import Done
+[2026.09.23-22.28.36:789][544]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Model/KP_HouseStairs.KP_HouseStairs
+[2026.09.23-22.28.36:811][544]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.09.23-22.28.52:209][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-22.28.52:260][166]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/KP_HouseStairs] ([1] browsable assets)...
+[2026.09.23-22.28.52:274][166]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/KP_HouseStairs.KP_HouseStairs]
+[2026.09.23-22.28.52:274][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/KP_HouseStairs]
+[2026.09.23-22.28.52:274][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/KP_HouseStairs" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/KP_HouseStairs.uasset" SILENT=true
+[2026.09.23-22.28.52:288][166]LogSavePackage: Moving output files for package: /Game/Model/KP_HouseStairs
+[2026.09.23-22.28.52:288][166]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/KP_HouseStairsDF5E6351420B48941AEA6584B44307D2.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/KP_HouseStairs.uasset'
+[2026.09.23-22.28.52:310][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 100.779 ms (total: 1.64 sec)
+[2026.09.23-22.28.52:414][166]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-22.28.52:414][166]LogContentValidation: Enabled validators:
+[2026.09.23-22.28.52:414][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-22.28.52:414][166]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-22.28.52:414][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-22.28.52:414][166]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-22.28.52:414][166]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-22.28.52:414][166]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-22.28.52:415][166]AssetCheck: /Game/Model/KP_HouseStairs Validating asset
+[2026.09.23-22.28.52:460][166]LogSourceControl: Display: Uncontrolled Changelist persistency file saved F:/TheKeeperdev/TheKeeper/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.23-22.29.31:013][735]LogInterchangeEngine: [Pending] Importing
+[2026.09.23-22.29.31:013][735]LogInterchangeEngine: Display: Interchange start importing source [F:/Project Keeper/KP_HouseStairs.fbx]
+[2026.09.23-22.29.31:291][740]LogStaticMesh: Display: Building static mesh KP_HouseStairs (Required Memory Estimate: 0.202101 MB)...
+[2026.09.23-22.29.31:292][740]LogStaticMesh: Adjacency [0.00s], tris: 120, UVs 1
+[2026.09.23-22.29.31:293][740]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.09.23-22.29.31:293][740]LogStaticMesh: Leaves [0.00s]
+[2026.09.23-22.29.31:293][740]LogStaticMesh: Reduce [0.00s]
+[2026.09.23-22.29.31:293][740]LogStaticMesh: Fallback [0.00s], num tris: 120
+[2026.09.23-22.29.31:293][740]LogStaticMesh: Fallback [0.00s], num tris: 120
+[2026.09.23-22.29.31:294][740]LogStaticMesh: ConstrainClusters:
+[2026.09.23-22.29.31:294][740]LogStaticMesh:   Input: 1 Clusters, 120 Triangles and 240 Vertices
+[2026.09.23-22.29.31:294][740]LogStaticMesh:   Output without splits: 1 Clusters, 120 Triangles and 240 Vertices
+[2026.09.23-22.29.31:294][740]LogStaticMesh:   Output with splits: 1 Clusters, 120 Triangles and 240 Vertices
+[2026.09.23-22.29.31:294][740]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.09.23-22.29.31:294][740]LogStaticMesh: WritePages:
+[2026.09.23-22.29.31:294][740]LogStaticMesh:   Root: GPU size: 2804 bytes. 1 Pages. 2804.000 bytes per page (8.557% utilization).
+[2026.09.23-22.29.31:294][740]LogStaticMesh:   Streaming: 0 bytes.
+[2026.09.23-22.29.31:294][740]LogStaticMesh:   Page data disk size: 3204 bytes. Fixup data size: 24 bytes.
+[2026.09.23-22.29.31:294][740]LogStaticMesh:   Total GPU size: 2804 bytes, Total disk size: 3228 bytes.
+[2026.09.23-22.29.31:294][740]LogStaticMesh: Encode [0.00s]
+[2026.09.23-22.29.31:294][740]LogStaticMesh: NaniteBuild [0.00s]
+[2026.09.23-22.29.31:302][740]LogStaticMesh: Built static mesh [0.01s] /Game/Model/KP_HouseStairs.KP_HouseStairs
+[2026.09.23-22.29.31:426][740]LogInterchangeEngine: Display: Interchange import completed [F:/Project Keeper/KP_HouseStairs.fbx]
+[2026.09.23-22.29.31:426][740]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.09.23-22.29.31:426][740]LogInterchangeEngine: [Success] Import Done
+[2026.09.23-22.29.32:765][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-22.29.32:863][800]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/KP_HouseStairs] ([1] browsable assets)...
+[2026.09.23-22.29.32:874][800]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/KP_HouseStairs.KP_HouseStairs]
+[2026.09.23-22.29.32:875][800]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/KP_HouseStairs]
+[2026.09.23-22.29.32:875][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/KP_HouseStairs" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/KP_HouseStairs.uasset" SILENT=true
+[2026.09.23-22.29.32:881][800]LogSavePackage: Moving output files for package: /Game/Model/KP_HouseStairs
+[2026.09.23-22.29.32:882][800]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/KP_HouseStairsFE91FA00405DDBDF7CA516ADB768C004.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/KP_HouseStairs.uasset'
+[2026.09.23-22.29.32:906][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.630 ms (total: 1.78 sec)
+[2026.09.23-22.29.33:004][800]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-22.29.33:004][800]LogContentValidation: Enabled validators:
+[2026.09.23-22.29.33:004][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-22.29.33:004][800]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-22.29.33:004][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-22.29.33:004][800]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-22.29.33:004][800]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-22.29.33:004][800]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-22.29.33:004][800]AssetCheck: /Game/Model/KP_HouseStairs Validating asset
+[2026.09.23-22.29.39:622][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-22.29.39:675][126]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/KP_HouseStairs] ([1] browsable assets)...
+[2026.09.23-22.29.39:688][126]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/KP_HouseStairs.KP_HouseStairs]
+[2026.09.23-22.29.39:688][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/KP_HouseStairs]
+[2026.09.23-22.29.39:689][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/KP_HouseStairs" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/KP_HouseStairs.uasset" SILENT=true
+[2026.09.23-22.29.39:694][126]LogSavePackage: Moving output files for package: /Game/Model/KP_HouseStairs
+[2026.09.23-22.29.39:695][126]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/KP_HouseStairsFD52788946FADEB0484233BD22D8C570.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/KP_HouseStairs.uasset'
+[2026.09.23-22.29.39:717][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.400 ms (total: 1.88 sec)
+[2026.09.23-22.29.39:812][126]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-22.29.39:813][126]LogContentValidation: Enabled validators:
+[2026.09.23-22.29.39:813][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-22.29.39:813][126]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-22.29.39:813][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-22.29.39:813][126]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-22.29.39:813][126]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-22.29.39:813][126]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-22.29.39:813][126]AssetCheck: /Game/Model/KP_HouseStairs Validating asset
+[2026.09.23-22.29.42:402][266]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.23-22.29.42:413][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.23-22.29.42:413][266]LogPlayLevel: Creating play world package: /Game/WhiteboxLevels/UEDPIE_0_ModelPlayhouse
+[2026.09.23-22.29.42:417][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003129s)
+[2026.09.23-22.29.42:417][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteboxLevels/ModelPlayhouse.ModelPlayhouse to /Game/WhiteboxLevels/UEDPIE_0_ModelPlayhouse.ModelPlayhouse (0.003188s)
+[2026.09.23-22.29.42:467][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.09.23-22.29.42:472][266]LogChaosDD: Creating Chaos Debug Draw Scene for world ModelPlayhouse
+[2026.09.23-22.29.42:475][266]LogPlayLevel: PIE: World Init took: (0.002506s)
+[2026.09.23-22.29.42:475][266]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.09.23-22.29.42:475][266]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.23-22.29.42:475][266]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.23-22.29.42:475][266]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.23-22.29.42:475][266]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.23-22.29.42:475][266]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.23-22.29.42:475][266]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.23-22.29.42:475][266]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.23-22.29.42:475][266]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.23-22.29.42:475][266]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.23-22.29.42:475][266]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.23-22.29.42:475][266]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.23-22.29.42:480][266]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.23-22.29.42:665][266]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.09.23-22.29.42:665][266]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.23-22.29.42:665][266]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.23-22.29.42:665][266]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.23-22.29.42:666][266]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.09.23-22.29.42:666][266]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.09.23-22.29.42:670][266]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.09.23-22.29.42:670][266]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.09.23-22.29.42:670][266]LogInit: FAudioDevice initialized with ID 5.
+[2026.09.23-22.29.42:670][266]LogAudio: Display: Audio Device (ID: 5) registered with world 'ModelPlayhouse'.
+[2026.09.23-22.29.42:670][266]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.09.23-22.29.42:677][266]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.09.23-22.29.42:678][266]LogWorld: Bringing World /Game/WhiteboxLevels/UEDPIE_0_ModelPlayhouse.ModelPlayhouse up for play (max tick rate 60) at 2026.09.23-18.29.42
+[2026.09.23-22.29.42:679][266]LogWorld: Bringing up level for play took: 0.001401
+[2026.09.23-22.29.42:683][266]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2026.09.23-22.29.42:693][266]PIE: Server logged in
+[2026.09.23-22.29.42:697][266]PIE: Play in editor total start time 0.283 seconds.
+[2026.09.23-22.29.42:724][266]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.23-22.29.47:009][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.29.47:009][475]LogWorld: BeginTearingDown for /Game/WhiteboxLevels/UEDPIE_0_ModelPlayhouse
+[2026.09.23-22.29.47:009][475]LogWorld: UWorld::CleanupWorld for ModelPlayhouse, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-22.29.47:009][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.29.47:013][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.23-22.29.47:015][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.29.47:038][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.29.47:038][475]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.09.23-22.29.47:038][475]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.09.23-22.29.47:042][475]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.09.23-22.29.47:054][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2026.09.23-22.29.47:174][476]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2026.09.23-22.29.48:892][553]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/KP_HouseStairs.KP_HouseStairs
+[2026.09.23-22.29.48:892][553]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/KP_HouseStairs.KP_HouseStairs
+[2026.09.23-22.29.48:894][553]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model/KP_HouseStairs.KP_HouseStairs as actor: StaticMeshActor /Game/WhiteboxLevels/ModelPlayhouse.ModelPlayhouse:PersistentLevel.StaticMeshActor_8
+[2026.09.23-22.29.49:884][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.09.23-22.29.49:886][591]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2026.09.23-22.29.49:893][591]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/KP_HouseStairs.KP_HouseStairs
+[2026.09.23-22.29.49:893][591]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/KP_HouseStairs.KP_HouseStairs
+[2026.09.23-22.29.49:895][591]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model/KP_HouseStairs.KP_HouseStairs as actor: StaticMeshActor /Game/WhiteboxLevels/ModelPlayhouse.ModelPlayhouse:PersistentLevel.StaticMeshActor_9
+[2026.09.23-22.29.53:633][792]Cmd: DELETE
+[2026.09.23-22.29.53:633][792]Cmd: ACTOR DELETE
+[2026.09.23-22.29.53:635][792]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.09.23-22.29.53:661][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.09.23-22.29.53:664][792]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2026.09.23-22.30.19:378][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.09.23-22.30.19:391][934]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WhiteboxLevels/ModelPlayhouse_Auto3
+[2026.09.23-22.30.19:391][934]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/ModelPlayhouse_Auto3BFF6A30848097AB39B9D84996512A01C.tmp' to 'F:/TheKeeperdev/TheKeeper/Saved/Autosaves/Game/WhiteboxLevels/ModelPlayhouse_Auto3.umap'
+[2026.09.23-22.30.19:392][934]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/WhiteboxLevels/ModelPlayhouse' took 0.044
+[2026.09.23-22.30.19:392][934]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2026.09.23-22.30.30:301][494]LogInterchangeEngine: [Pending] Importing
+[2026.09.23-22.30.30:301][494]LogInterchangeEngine: Display: Interchange start importing source [F:/Project Keeper/KP_HouseStairs.fbx]
+[2026.09.23-22.30.30:574][499]LogStaticMesh: Display: Building static mesh KP_HouseStairs (Required Memory Estimate: 0.202101 MB)...
+[2026.09.23-22.30.30:575][499]LogStaticMesh: Adjacency [0.00s], tris: 120, UVs 1
+[2026.09.23-22.30.30:575][499]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.09.23-22.30.30:575][499]LogStaticMesh: Leaves [0.00s]
+[2026.09.23-22.30.30:575][499]LogStaticMesh: Reduce [0.00s]
+[2026.09.23-22.30.30:575][499]LogStaticMesh: Fallback [0.00s], num tris: 120
+[2026.09.23-22.30.30:576][499]LogStaticMesh: Fallback [0.00s], num tris: 120
+[2026.09.23-22.30.30:576][499]LogStaticMesh: ConstrainClusters:
+[2026.09.23-22.30.30:576][499]LogStaticMesh:   Input: 1 Clusters, 120 Triangles and 240 Vertices
+[2026.09.23-22.30.30:576][499]LogStaticMesh:   Output without splits: 1 Clusters, 120 Triangles and 240 Vertices
+[2026.09.23-22.30.30:576][499]LogStaticMesh:   Output with splits: 1 Clusters, 120 Triangles and 240 Vertices
+[2026.09.23-22.30.30:576][499]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.09.23-22.30.30:576][499]LogStaticMesh: WritePages:
+[2026.09.23-22.30.30:576][499]LogStaticMesh:   Root: GPU size: 2804 bytes. 1 Pages. 2804.000 bytes per page (8.557% utilization).
+[2026.09.23-22.30.30:576][499]LogStaticMesh:   Streaming: 0 bytes.
+[2026.09.23-22.30.30:576][499]LogStaticMesh:   Page data disk size: 3204 bytes. Fixup data size: 24 bytes.
+[2026.09.23-22.30.30:576][499]LogStaticMesh:   Total GPU size: 2804 bytes, Total disk size: 3228 bytes.
+[2026.09.23-22.30.30:576][499]LogStaticMesh: Encode [0.00s]
+[2026.09.23-22.30.30:576][499]LogStaticMesh: NaniteBuild [0.00s]
+[2026.09.23-22.30.30:584][499]LogStaticMesh: Built static mesh [0.01s] /Game/Model/KP_HouseStairs.KP_HouseStairs
+[2026.09.23-22.30.30:713][499]LogInterchangeEngine: Display: Interchange import completed [F:/Project Keeper/KP_HouseStairs.fbx]
+[2026.09.23-22.30.30:713][499]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.09.23-22.30.30:713][499]LogInterchangeEngine: [Success] Import Done
+[2026.09.23-22.30.32:359][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-22.30.32:469][580]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/KP_HouseStairs] ([1] browsable assets)...
+[2026.09.23-22.30.32:479][580]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/KP_HouseStairs.KP_HouseStairs]
+[2026.09.23-22.30.32:479][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/KP_HouseStairs]
+[2026.09.23-22.30.32:479][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/KP_HouseStairs" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/KP_HouseStairs.uasset" SILENT=true
+[2026.09.23-22.30.32:502][580]LogSavePackage: Moving output files for package: /Game/Model/KP_HouseStairs
+[2026.09.23-22.30.32:502][580]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/KP_HouseStairs4263DB4A4A15447E4F9583894992EFE1.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/KP_HouseStairs.uasset'
+[2026.09.23-22.30.32:530][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.005 ms (total: 2.05 sec)
+[2026.09.23-22.30.32:634][580]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-22.30.32:634][580]LogContentValidation: Enabled validators:
+[2026.09.23-22.30.32:634][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-22.30.32:634][580]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-22.30.32:634][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-22.30.32:634][580]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-22.30.32:634][580]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-22.30.32:634][580]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-22.30.32:634][580]AssetCheck: /Game/Model/KP_HouseStairs Validating asset
+[2026.09.23-22.30.35:735][733]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/KP_HouseStairs.KP_HouseStairs
+[2026.09.23-22.30.35:735][733]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/KP_HouseStairs.KP_HouseStairs
+[2026.09.23-22.30.35:735][733]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model/KP_HouseStairs.KP_HouseStairs as actor: StaticMeshActor /Game/WhiteboxLevels/ModelPlayhouse.ModelPlayhouse:PersistentLevel.StaticMeshActor_10
+[2026.09.23-22.30.36:369][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.09.23-22.30.36:374][759]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2026.09.23-22.30.36:380][759]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/KP_HouseStairs.KP_HouseStairs
+[2026.09.23-22.30.36:380][759]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model/KP_HouseStairs.KP_HouseStairs
+[2026.09.23-22.30.36:382][759]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model/KP_HouseStairs.KP_HouseStairs as actor: StaticMeshActor /Game/WhiteboxLevels/ModelPlayhouse.ModelPlayhouse:PersistentLevel.StaticMeshActor_11
+[2026.09.23-22.30.54:348][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-22.30.54:450][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WhiteboxLevels/ModelPlayhouse" FILE="F:/TheKeeperdev/TheKeeper/Content/WhiteboxLevels/ModelPlayhouse.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.09.23-22.30.54:508][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.09.23-22.30.54:518][683]LogSavePackage: Moving output files for package: /Game/WhiteboxLevels/ModelPlayhouse
+[2026.09.23-22.30.54:519][683]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/ModelPlayhouseF1FE4386498D0D7B6B9731B1680E14B7.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/WhiteboxLevels/ModelPlayhouse.umap'
+[2026.09.23-22.30.54:536][683]LogFileHelpers: Saving map 'ModelPlayhouse' took 0.086
+[2026.09.23-22.30.54:561][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 212.613 ms (total: 2.26 sec)
+[2026.09.23-22.30.54:660][683]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-22.30.54:660][683]LogContentValidation: Enabled validators:
+[2026.09.23-22.30.54:660][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-22.30.54:660][683]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-22.30.54:660][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-22.30.54:660][683]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-22.30.54:660][683]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-22.30.54:660][683]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-22.30.54:660][683]AssetCheck: /Game/WhiteboxLevels/ModelPlayhouse Validating asset
+[2026.09.23-22.30.55:789][737]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.09.23-22.30.55:800][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.23-22.30.55:801][737]LogPlayLevel: Creating play world package: /Game/WhiteboxLevels/UEDPIE_0_ModelPlayhouse
+[2026.09.23-22.30.55:804][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003190s)
+[2026.09.23-22.30.55:804][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteboxLevels/ModelPlayhouse.ModelPlayhouse to /Game/WhiteboxLevels/UEDPIE_0_ModelPlayhouse.ModelPlayhouse (0.003249s)
+[2026.09.23-22.30.55:827][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.09.23-22.30.55:828][737]LogChaosDD: Creating Chaos Debug Draw Scene for world ModelPlayhouse
+[2026.09.23-22.30.55:830][737]LogPlayLevel: PIE: World Init took: (0.002496s)
+[2026.09.23-22.30.55:832][737]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.09.23-22.30.55:832][737]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.23-22.30.55:832][737]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.23-22.30.55:832][737]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.23-22.30.55:832][737]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.23-22.30.55:832][737]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.23-22.30.55:832][737]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.23-22.30.55:832][737]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.23-22.30.55:832][737]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.23-22.30.55:832][737]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.23-22.30.55:832][737]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.23-22.30.55:832][737]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.23-22.30.55:836][737]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.23-22.30.56:035][737]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.09.23-22.30.56:035][737]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.23-22.30.56:035][737]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.23-22.30.56:035][737]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.23-22.30.56:035][737]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.09.23-22.30.56:037][737]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.09.23-22.30.56:041][737]LogInit: FAudioDevice initialized with ID 6.
+[2026.09.23-22.30.56:041][737]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.09.23-22.30.56:041][737]LogAudio: Display: Audio Device (ID: 6) registered with world 'ModelPlayhouse'.
+[2026.09.23-22.30.56:041][737]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.09.23-22.30.56:041][737]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.09.23-22.30.56:047][737]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.09.23-22.30.56:048][737]LogWorld: Bringing World /Game/WhiteboxLevels/UEDPIE_0_ModelPlayhouse.ModelPlayhouse up for play (max tick rate 60) at 2026.09.23-18.30.56
+[2026.09.23-22.30.56:048][737]LogWorld: Bringing up level for play took: 0.001441
+[2026.09.23-22.30.56:052][737]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2026.09.23-22.30.56:063][737]PIE: Server logged in
+[2026.09.23-22.30.56:066][737]PIE: Play in editor total start time 0.265 seconds.
+[2026.09.23-22.30.56:091][737]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.09.23-22.32.19:539][433]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2419.677246
+[2026.09.23-22.32.19:679][441]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-22.32.19:679][441]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2419.800049, Update Interval: 352.014526
+[2026.09.23-22.34.19:459][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.34.19:459][314]LogWorld: BeginTearingDown for /Game/WhiteboxLevels/UEDPIE_0_ModelPlayhouse
+[2026.09.23-22.34.19:459][314]LogWorld: UWorld::CleanupWorld for ModelPlayhouse, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-22.34.19:460][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.34.19:463][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.23-22.34.19:467][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.34.19:494][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.34.19:494][314]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.09.23-22.34.19:494][314]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.09.23-22.34.19:498][314]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.09.23-22.34.19:514][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.09.23-22.34.19:639][315]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2026.09.23-22.35.13:553][673]Cmd: TRANSACTION UNDO
+[2026.09.23-22.35.13:553][673]LogEditorTransaction: Undo Move Elements
+[2026.09.23-22.35.15:413][715]Cmd: TRANSACTION UNDO
+[2026.09.23-22.35.15:413][715]LogEditorTransaction: Undo Move Elements
