@@ -2549,3 +2549,117 @@ Scale3D: 1.000000 1.000000 1.000000
 [2026.09.23-22.35.05:313][307]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.09.23-22.35.05:313][307]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.09.23-22.35.05:313][307]AssetCheck: /Game/WhiteboxLevels/IslandSet Validating asset
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: ================================================
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: Total job queries 627, among them cache hits 63 (10.05%), DDC hits 375 (59.81%), Duplicates 182 (29.03%)
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: Tracking 382 distinct input hashes that result in 265 distinct outputs (69.37%)
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: RAM used: 1.45 MiB of 819.20 MiB budget. Usage: 0.18%
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: Shaders Compiled: 7
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: Average time worker was idle: 376.80 s
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.17 s
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: Job execution time: average 4.92 s, max 6.90 s
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: Job life time (pending + execution): average 5.02 s, max 6.91
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: Shader code size: total 35.758 KiB, numShaders 9, average 3.973 KiB, min 284 B, max 7.246 KiB
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.09 s
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.35%
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: Average processing rate: 0.87 jobs/sec
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: Total thread time: 20.082 s
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: Total thread preprocess time: 20.596 s
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: Percentage time preprocessing: 102.56%
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: Effective parallelization: 2.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.310211
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 3.38 sec, max 3.39 sec, min 3.38 sec)
+[2026.09.23-22.35.50:189][ 48]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 2.53 sec, max 2.53 sec, min 2.53 sec)
+[2026.09.23-22.35.50:190][ 48]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 2.23 sec, max 3.02 sec, min 0.80 sec)
+[2026.09.23-22.35.50:191][ 48]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 2.07 sec, max 2.07 sec, min 2.07 sec)
+[2026.09.23-22.35.50:191][ 48]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    2 times, average 1.02 sec, max 1.05 sec, min 0.98 sec)
+[2026.09.23-22.35.50:191][ 48]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.09.23-22.35.50:191][ 48]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 33.69% of total time (compiled    2 times, average 3.38 sec, max 3.39 sec, min 3.38 sec)
+[2026.09.23-22.35.50:191][ 48]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 33.28% of total time (compiled    3 times, average 2.23 sec, max 3.02 sec, min 0.80 sec)
+[2026.09.23-22.35.50:191][ 48]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.61% of total time (compiled    1 times, average 2.53 sec, max 2.53 sec, min 2.53 sec)
+[2026.09.23-22.35.50:191][ 48]LogShaderCompilers: Display:                                                  FHitProxyVS - 10.30% of total time (compiled    1 times, average 2.07 sec, max 2.07 sec, min 2.07 sec)
+[2026.09.23-22.35.50:191][ 48]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 10.12% of total time (compiled    2 times, average 1.02 sec, max 1.05 sec, min 0.98 sec)
+[2026.09.23-22.35.50:191][ 48]LogShaderCompilers: Display: === Material stats ===
+[2026.09.23-22.35.50:191][ 48]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.09.23-22.35.50:191][ 48]LogShaderCompilers: Display: Materials Translated:    171
+[2026.09.23-22.35.50:191][ 48]LogShaderCompilers: Display: Material Total Translate Time: 0.35 s
+[2026.09.23-22.35.50:191][ 48]LogShaderCompilers: Display: Material Translation Only: 0.12 s (36%)
+[2026.09.23-22.35.50:191][ 48]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.09.23-22.35.50:191][ 48]LogShaderCompilers: Display: Material Cache Hits: 15 (9%)
+[2026.09.23-22.35.50:191][ 48]LogShaderCompilers: Display: ================================================
+[2026.09.23-22.38.03:263][ 75]Cmd: TRANSACTION UNDO
+[2026.09.23-22.38.03:263][ 75]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2026.09.23-22.38.03:481][ 75]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.09.23-22.38.03:491][ 75]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2026.09.23-22.40.31:138][216]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.09.23-22.40.31:161][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.09.23-22.40.31:161][216]LogPlayLevel: Creating play world package: /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-22.40.31:204][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042752s)
+[2026.09.23-22.40.31:204][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WhiteboxLevels/IslandSet.IslandSet to /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet (0.042964s)
+[2026.09.23-22.40.31:304][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.09.23-22.40.31:308][216]LogChaosDD: Creating Chaos Debug Draw Scene for world IslandSet
+[2026.09.23-22.40.31:312][216]LogPlayLevel: PIE: World Init took: (0.003453s)
+[2026.09.23-22.40.31:313][216]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.09.23-22.40.31:314][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.09.23-22.40.31:314][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.09.23-22.40.31:314][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.09.23-22.40.31:314][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.09.23-22.40.31:314][216]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.09.23-22.40.31:314][216]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.09.23-22.40.31:314][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.09.23-22.40.31:314][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.09.23-22.40.31:314][216]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.09.23-22.40.31:314][216]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.09.23-22.40.31:314][216]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.09.23-22.40.31:322][216]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.09.23-22.40.32:142][216]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Realtek(R) Audio)
+[2026.09.23-22.40.32:145][216]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.09.23-22.40.32:145][216]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.09.23-22.40.32:145][216]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.09.23-22.40.32:152][216]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.09.23-22.40.32:152][216]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.09.23-22.40.32:161][216]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.09.23-22.40.32:161][216]LogInit: FAudioDevice initialized with ID 16.
+[2026.09.23-22.40.32:162][216]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.09.23-22.40.32:162][216]LogAudio: Display: Audio Device (ID: 16) registered with world 'IslandSet'.
+[2026.09.23-22.40.32:162][216]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.09.23-22.40.32:228][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.40.32:230][216]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2026.09.23-22.40.32:257][216]LogWorld: Bringing World /Game/WhiteboxLevels/UEDPIE_0_IslandSet.IslandSet up for play (max tick rate 60) at 2026.09.23-18.40.32
+[2026.09.23-22.40.32:257][216]LogWorld: Bringing up level for play took: 0.026939
+[2026.09.23-22.40.32:264][216]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2026.09.23-22.40.32:291][216]PIE: Server logged in
+[2026.09.23-22.40.32:300][216]PIE: Play in editor total start time 1.141 seconds.
+[2026.09.23-22.40.56:756][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.09.23-22.40.56:757][401]LogWorld: BeginTearingDown for /Game/WhiteboxLevels/UEDPIE_0_IslandSet
+[2026.09.23-22.40.56:758][401]LogSlate: Window 'TheKeeper Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2026.09.23-22.40.56:791][401]LogWorld: UWorld::CleanupWorld for IslandSet, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-22.40.56:798][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.40.56:802][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.09.23-22.40.56:812][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-22.40.56:920][401]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.09.23-22.40.56:921][401]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.09.23-22.40.56:922][401]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2026.09.23-22.40.56:926][401]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2026.09.23-22.40.56:947][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.09.23-22.40.57:065][402]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.09.23-22.41.00:791][585]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-22.41.01:042][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.09.23-22.41.01:054][585]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.333324 MB), EncodeSpeed: Fast
+[2026.09.23-22.41.01:064][585]LogTexture: Display: Building textures: /Game/WhiteboxLevels/IslandSet.IslandSet:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 256x256 x1x1x1) (Required Memory Estimate: 3.249992 MB), EncodeSpeed: Fast
+[2026.09.23-22.41.01:197][585]LogSavePackage: Moving output files for package: /Game/WhiteboxLevels/IslandSet
+[2026.09.23-22.41.01:202][585]LogSavePackage: Moving '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/IslandSet05DBD73844E1D999AEEFCCA440241F32.tmp' to '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Content/WhiteboxLevels/IslandSet.umap'
+[2026.09.23-22.41.01:259][585]LogFileHelpers: Saving map 'IslandSet' took 0.378
+[2026.09.23-22.41.01:290][585]LogFileHelpers: InternalPromptForCheckoutAndSave took 499.461 ms (total: 8.70 sec)
+[2026.09.23-22.41.01:379][585]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-22.41.01:379][585]LogContentValidation: Enabled validators:
+[2026.09.23-22.41.01:379][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-22.41.01:379][585]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-22.41.01:379][585]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-22.41.01:379][585]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-22.41.01:379][585]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-22.41.01:379][585]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-22.41.01:379][585]AssetCheck: /Game/WhiteboxLevels/IslandSet Validating asset
