@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/home/nikolasmir/Downloads/TheKeeperdev-2/TheKeeper/Content/SFX/TheKeeperSFX/FogHornSFX.uasset",
+				"/home/nikolasmir/Downloads/TheKeeperdev-2/TheKeeper/Content/SFX/TheKeeperSFX/zapsplat_foley_footstep_single_leather_boot_on_concrete_then_scuff_003_103394.uasset",
+				"/home/nikolasmir/Downloads/TheKeeperdev-2/TheKeeper/Content/SFX/TheKeeperSFX/zapsplat_foley_footsteps_hard_soggy_wet_grass_mud_70869.uasset",
+				"/home/nikolasmir/Downloads/TheKeeperdev-2/TheKeeper/Content/SFX/TheKeeperSFX/zapsplat_nature_forest_night_late_wind_trees_frog_minimal_insects_distant_motorway_traffic_115381.uasset",
+				"/home/nikolasmir/Downloads/TheKeeperdev-2/TheKeeper/Content/SFX/TheKeeperSFX/zapsplat_vehicles_car_engine_idle_fans_aircon_running_internal_off_112397.uasset",
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"F:/TheKeeperdev/TheKeeper/Content/Model/Stairtest.uasset",
 				"F:/TheKeeperdev/TheKeeper/Content/Model/Towertest01.uasset",
