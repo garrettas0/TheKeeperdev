@@ -2674,3 +2674,531 @@ Sampler Limit: 32
 [2026.09.23-22.35.13:553][673]LogEditorTransaction: Undo Move Elements
 [2026.09.23-22.35.15:413][715]Cmd: TRANSACTION UNDO
 [2026.09.23-22.35.15:413][715]LogEditorTransaction: Undo Move Elements
+[2026.09.23-22.38.52:258][493]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2812.393799
+[2026.09.23-22.38.53:258][496]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-22.38.53:258][496]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2813.061035, Update Interval: 313.290192
+[2026.09.23-22.44.18:770][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.09.23-22.44.18:772][472]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/WhiteboxLevels/ModelPlayhouse' took 0.038
+[2026.09.23-22.44.18:773][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/black] ([1] browsable assets)...
+[2026.09.23-22.44.18:773][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/black]
+[2026.09.23-22.44.18:773][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/black" FILE="F:/TheKeeperdev/TheKeeper/Saved/Autosaves/Game/Materials/black_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2026.09.23-22.44.18:776][472]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/black_Auto4
+[2026.09.23-22.44.18:776][472]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/black_Auto471D30BEC4FFB2065D5695C8C5EC63C5D.tmp' to 'F:/TheKeeperdev/TheKeeper/Saved/Autosaves/Game/Materials/black_Auto4.uasset'
+[2026.09.23-22.44.18:776][472]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Model/Materials/Roof] ([1] browsable assets)...
+[2026.09.23-22.44.18:776][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Materials/Roof]
+[2026.09.23-22.44.18:776][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Materials/Roof" FILE="F:/TheKeeperdev/TheKeeper/Saved/Autosaves/Game/Model/Materials/Roof_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2026.09.23-22.44.18:816][472]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Model/Materials/Roof_Auto4
+[2026.09.23-22.44.18:816][472]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/Roof_Auto4C103E5824363C8021E2C5C96986AC556.tmp' to 'F:/TheKeeperdev/TheKeeper/Saved/Autosaves/Game/Model/Materials/Roof_Auto4.uasset'
+[2026.09.23-22.44.18:817][472]LogFileHelpers: Auto-saving content packages took 0.045
+[2026.09.23-22.45.03:650][607]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3183.786865
+[2026.09.23-22.45.04:651][610]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-22.45.04:651][610]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3184.453613, Update Interval: 313.828552
+[2026.09.23-22.51.06:038][694]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3546.170654
+[2026.09.23-22.51.07:037][697]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-22.51.07:037][698]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3546.835693, Update Interval: 357.070221
+[2026.09.23-22.53.36:758][147]LogDerivedDataCache: C:/Users/garre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.09.23-22.57.47:106][897]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3947.234619
+[2026.09.23-22.57.48:106][900]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-22.57.48:106][901]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3947.901611, Update Interval: 345.929749
+[2026.09.23-23.04.07:173][ 37]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4327.303711
+[2026.09.23-23.04.08:172][ 40]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-23.04.08:172][ 41]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4327.969727, Update Interval: 308.639191
+[2026.09.23-23.10.13:896][137]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4694.029785
+[2026.09.23-23.10.14:896][140]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-23.10.14:897][141]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4694.696777, Update Interval: 352.565704
+[2026.09.23-23.17.02:635][363]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5102.772949
+[2026.09.23-23.17.03:635][366]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-23.17.03:635][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5103.437012, Update Interval: 318.316589
+[2026.09.23-23.23.19:361][493]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5479.488770
+[2026.09.23-23.23.20:360][496]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-23.23.20:360][497]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5480.155762, Update Interval: 355.411224
+[2026.09.23-23.29.52:413][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5872.547852
+[2026.09.23-23.29.53:415][675]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-23.29.53:415][675]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5873.213867, Update Interval: 300.476074
+[2026.09.23-23.35.50:466][746]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6230.591797
+[2026.09.23-23.35.51:466][749]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-23.35.51:466][749]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6231.259277, Update Interval: 357.324738
+[2026.09.23-23.42.27:476][439]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6627.609375
+[2026.09.23-23.42.28:477][442]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.09.23-23.42.28:477][443]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6628.275879, Update Interval: 342.274841
+[2026.09.23-23.43.00:991][567]LogStreaming: Display: FlushAsyncLoading(585): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.23-23.43.01:093][567]LogInterchangeEngine: Display: Interchange start importing source [F:/Project Keeper/KP_FuelCan.fbx]
+[2026.09.23-23.43.04:563][567]LogSlate: Window 'Import Content' being destroyed
+[2026.09.23-23.43.04:607][567]LogInterchangeEngine: [Pending] Importing
+[2026.09.23-23.43.05:013][569]LogStreaming: Display: FlushAsyncLoading(586): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.23-23.43.05:216][572]LogStaticMesh: Display: Building static mesh KP_FuelCan (Required Memory Estimate: 1.199066 MB)...
+[2026.09.23-23.43.05:225][572]LogStaticMesh: Adjacency [0.00s], tris: 772, UVs 1
+[2026.09.23-23.43.05:230][572]LogStaticMesh: Clustering [0.01s]. Ratio: 1.285714
+[2026.09.23-23.43.05:230][572]LogStaticMesh: Leaves [0.00s]
+[2026.09.23-23.43.05:287][575]LogStaticMesh: Reduce [0.06s]
+[2026.09.23-23.43.05:313][576]LogStaticMesh: Fallback [0.02s], num tris: 503
+[2026.09.23-23.43.05:351][578]LogStaticMesh: Fallback [0.04s], num tris: 360
+[2026.09.23-23.43.05:352][578]LogStaticMesh: ConstrainClusters:
+[2026.09.23-23.43.05:352][578]LogStaticMesh:   Input: 16 Clusters, 1651 Triangles and 1836 Vertices
+[2026.09.23-23.43.05:353][578]LogStaticMesh:   Output without splits: 16 Clusters, 1651 Triangles and 1838 Vertices
+[2026.09.23-23.43.05:353][578]LogStaticMesh:   Output with splits: 16 Clusters, 1651 Triangles and 1838 Vertices
+[2026.09.23-23.43.05:353][578]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 16, Slow Path Clusters: 0, 1 Material: 16, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.09.23-23.43.05:354][578]LogStaticMesh: WritePages:
+[2026.09.23-23.43.05:354][578]LogStaticMesh:   Root: GPU size: 22072 bytes. 1 Pages. 22072.000 bytes per page (67.358% utilization).
+[2026.09.23-23.43.05:354][578]LogStaticMesh:   Streaming: 0 bytes.
+[2026.09.23-23.43.05:354][578]LogStaticMesh:   Page data disk size: 18936 bytes. Fixup data size: 72 bytes.
+[2026.09.23-23.43.05:354][578]LogStaticMesh:   Total GPU size: 22072 bytes, Total disk size: 19008 bytes.
+[2026.09.23-23.43.05:354][578]LogStaticMesh: Encode [0.00s]
+[2026.09.23-23.43.05:354][578]LogStaticMesh: NaniteBuild [0.13s]
+[2026.09.23-23.43.05:401][580]LogStaticMesh: Built static mesh [0.19s] /Game/Model/KP_FuelCan.KP_FuelCan
+[2026.09.23-23.43.05:460][581]LogInterchangeEngine: Display: Interchange import completed [F:/Project Keeper/KP_FuelCan.fbx]
+[2026.09.23-23.43.05:477][581]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.09.23-23.43.05:477][581]LogInterchangeEngine: [Success] Import Done
+[2026.09.23-23.43.16:989][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-23.43.17:088][117]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/KP_FuelCan] ([1] browsable assets)...
+[2026.09.23-23.43.17:100][117]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/KP_FuelCan.KP_FuelCan]
+[2026.09.23-23.43.17:100][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/KP_FuelCan]
+[2026.09.23-23.43.17:100][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/KP_FuelCan" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/KP_FuelCan.uasset" SILENT=true
+[2026.09.23-23.43.17:110][117]LogSavePackage: Moving output files for package: /Game/Model/KP_FuelCan
+[2026.09.23-23.43.17:110][117]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/KP_FuelCan4B6A05DD4B19F9A2109978AFD3E16162.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/KP_FuelCan.uasset'
+[2026.09.23-23.43.17:132][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.230 ms (total: 2.40 sec)
+[2026.09.23-23.43.17:236][117]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-23.43.17:236][117]LogContentValidation: Enabled validators:
+[2026.09.23-23.43.17:236][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-23.43.17:236][117]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-23.43.17:236][117]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-23.43.17:236][117]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-23.43.17:236][117]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-23.43.17:236][117]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-23.43.17:236][117]AssetCheck: /Game/Model/KP_FuelCan Validating asset
+[2026.09.23-23.43.17:313][117]LogSourceControl: Display: Uncontrolled Changelist persistency file saved F:/TheKeeperdev/TheKeeper/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.23-23.43.48:072][654]LogStreaming: Display: FlushAsyncLoading(587): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.23-23.43.48:082][654]LogInterchangeEngine: [Pending] Importing
+[2026.09.23-23.43.48:082][654]LogInterchangeEngine: Display: Interchange start importing source [F:/Project Keeper/FuelCan_Roughness.png]
+[2026.09.23-23.43.48:084][654]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.09.23-23.43.48:084][654]LogInterchangeEngine: Display: Interchange start importing source [F:/Project Keeper/FuelCan_Base_color.png]
+[2026.09.23-23.43.48:086][654]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.09.23-23.43.48:086][654]LogInterchangeEngine: Display: Interchange start importing source [F:/Project Keeper/FuelCan_Height.png]
+[2026.09.23-23.43.48:086][654]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.09.23-23.43.48:086][654]LogInterchangeEngine: Display: Interchange start importing source [F:/Project Keeper/FuelCan_Metallic.png]
+[2026.09.23-23.43.48:087][654]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.09.23-23.43.48:087][654]LogInterchangeEngine: Display: Interchange start importing source [F:/Project Keeper/FuelCan_Mixed_AO.png]
+[2026.09.23-23.43.48:090][654]LogInterchangeEngine: [Pending] Importing -  (6)
+[2026.09.23-23.43.48:090][654]LogInterchangeEngine: Display: Interchange start importing source [F:/Project Keeper/FuelCan_Normal_OpenGL.png]
+[2026.09.23-23.43.48:783][656]LogStreaming: Display: FlushAsyncLoading(593): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.23-23.43.49:104][657]LogTexture: Display: Building textures: /Game/Model/Texture/FuelCan_Roughness.FuelCan_Roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 319.083323 MB), EncodeSpeed: Fast
+[2026.09.23-23.43.49:114][657]LogTexture: Display: Building textures: /Game/Model/Texture/FuelCan_Height.FuelCan_Height (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 323.083323 MB), EncodeSpeed: Fast
+[2026.09.23-23.43.49:114][657]LogTexture: Display: Building textures: /Game/Model/Texture/FuelCan_Metallic.FuelCan_Metallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 319.083323 MB), EncodeSpeed: Fast
+[2026.09.23-23.43.49:118][657]LogTexture: Display: Building textures: /Game/Model/Texture/FuelCan_Base_color.FuelCan_Base_color (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 331.083323 MB), EncodeSpeed: Fast
+[2026.09.23-23.43.49:128][657]LogTexture: Display: Building textures: /Game/Model/Texture/FuelCan_Mixed_AO.FuelCan_Mixed_AO (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 319.083323 MB), EncodeSpeed: Fast
+[2026.09.23-23.43.49:138][657]LogInterchangePipeline: Display: Auto-detected normal map
+[2026.09.23-23.43.49:365][658]LogTexture: Display: Building textures: /Game/Model/Texture/FuelCan_Normal_OpenGL.FuelCan_Normal_OpenGL (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 488.499988 MB), EncodeSpeed: Fast
+[2026.09.23-23.43.49:571][658]LogInterchangeEngine: Display: Interchange import completed [F:/Project Keeper/FuelCan_Roughness.png]
+[2026.09.23-23.43.49:571][658]LogInterchangeEngine: [Pending] Importing -  (5)
+[2026.09.23-23.43.49:572][658]LogInterchangeEngine: Display: Interchange import completed [F:/Project Keeper/FuelCan_Base_color.png]
+[2026.09.23-23.43.49:572][658]LogInterchangeEngine: [Pending] Importing -  (4)
+[2026.09.23-23.43.49:572][658]LogInterchangeEngine: Display: Interchange import completed [F:/Project Keeper/FuelCan_Height.png]
+[2026.09.23-23.43.49:572][658]LogInterchangeEngine: [Pending] Importing -  (3)
+[2026.09.23-23.43.49:572][658]LogInterchangeEngine: Display: Interchange import completed [F:/Project Keeper/FuelCan_Metallic.png]
+[2026.09.23-23.43.49:572][658]LogInterchangeEngine: [Pending] Importing -  (2)
+[2026.09.23-23.43.49:573][658]LogInterchangeEngine: Display: Interchange import completed [F:/Project Keeper/FuelCan_Mixed_AO.png]
+[2026.09.23-23.43.49:573][658]LogInterchangeEngine: [Pending] Importing -  (1)
+[2026.09.23-23.43.49:787][659]LogInterchangeEngine: Display: Interchange import completed [F:/Project Keeper/FuelCan_Normal_OpenGL.png]
+[2026.09.23-23.43.49:813][659]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.09.23-23.43.49:813][659]LogInterchangeEngine: [Success] Import Done
+[2026.09.23-23.43.57:848][739]LogStreaming: Display: FlushAsyncLoading(599): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.23-23.43.57:858][739]LogInterchangeEngine: [Pending] Importing
+[2026.09.23-23.43.57:858][739]LogInterchangeEngine: Display: Interchange start importing source [F:/Project Keeper/FuelCan_2D_View.png]
+[2026.09.23-23.43.58:563][741]LogStreaming: Display: FlushAsyncLoading(600): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.23-23.43.58:875][743]LogTexture: Display: Building textures: /Game/Model/Texture/FuelCan_2D_View.FuelCan_2D_View (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 331.083323 MB), EncodeSpeed: Fast
+[2026.09.23-23.43.59:246][743]LogInterchangeEngine: Display: Interchange import completed [F:/Project Keeper/FuelCan_2D_View.png]
+[2026.09.23-23.43.59:250][743]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.09.23-23.43.59:250][743]LogInterchangeEngine: [Success] Import Done
+[2026.09.23-23.44.01:533][799]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-23.44.01:636][799]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/Texture/FuelCan_2D_View] ([1] browsable assets)...
+[2026.09.23-23.44.01:641][799]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/Texture/FuelCan_2D_View.FuelCan_2D_View]
+[2026.09.23-23.44.01:641][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Texture/FuelCan_2D_View]
+[2026.09.23-23.44.01:641][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Texture/FuelCan_2D_View" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/Texture/FuelCan_2D_View.uasset" SILENT=true
+[2026.09.23-23.44.01:703][799]LogSavePackage: Moving output files for package: /Game/Model/Texture/FuelCan_2D_View
+[2026.09.23-23.44.01:704][799]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/FuelCan_2D_View29CEFCFC4720864B0362F0B24C810D4B.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/Texture/FuelCan_2D_View.uasset'
+[2026.09.23-23.44.01:706][799]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/Texture/FuelCan_Base_color] ([1] browsable assets)...
+[2026.09.23-23.44.01:710][799]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/Texture/FuelCan_Base_color.FuelCan_Base_color]
+[2026.09.23-23.44.01:710][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Texture/FuelCan_Base_color]
+[2026.09.23-23.44.01:710][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Texture/FuelCan_Base_color" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/Texture/FuelCan_Base_color.uasset" SILENT=true
+[2026.09.23-23.44.01:765][799]LogSavePackage: Moving output files for package: /Game/Model/Texture/FuelCan_Base_color
+[2026.09.23-23.44.01:765][799]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/FuelCan_Base_color3D61EAF84BC1E9CB21D3AAA756ED2532.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/Texture/FuelCan_Base_color.uasset'
+[2026.09.23-23.44.01:768][799]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/Texture/FuelCan_Height] ([1] browsable assets)...
+[2026.09.23-23.44.01:772][799]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/Texture/FuelCan_Height.FuelCan_Height]
+[2026.09.23-23.44.01:772][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Texture/FuelCan_Height]
+[2026.09.23-23.44.01:772][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Texture/FuelCan_Height" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/Texture/FuelCan_Height.uasset" SILENT=true
+[2026.09.23-23.44.01:809][799]LogSavePackage: Moving output files for package: /Game/Model/Texture/FuelCan_Height
+[2026.09.23-23.44.01:809][799]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/FuelCan_Height3DA3F59A4243A385DCD8F68D5073D57A.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/Texture/FuelCan_Height.uasset'
+[2026.09.23-23.44.01:810][799]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/Texture/FuelCan_Metallic] ([1] browsable assets)...
+[2026.09.23-23.44.01:814][799]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/Texture/FuelCan_Metallic.FuelCan_Metallic]
+[2026.09.23-23.44.01:814][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Texture/FuelCan_Metallic]
+[2026.09.23-23.44.01:814][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Texture/FuelCan_Metallic" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/Texture/FuelCan_Metallic.uasset" SILENT=true
+[2026.09.23-23.44.01:827][799]LogSavePackage: Moving output files for package: /Game/Model/Texture/FuelCan_Metallic
+[2026.09.23-23.44.01:827][799]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/FuelCan_Metallic40C2FE6940A2DB4EEA083A868C926092.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/Texture/FuelCan_Metallic.uasset'
+[2026.09.23-23.44.01:829][799]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/Texture/FuelCan_Mixed_AO] ([1] browsable assets)...
+[2026.09.23-23.44.01:832][799]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/Texture/FuelCan_Mixed_AO.FuelCan_Mixed_AO]
+[2026.09.23-23.44.01:832][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Texture/FuelCan_Mixed_AO]
+[2026.09.23-23.44.01:832][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Texture/FuelCan_Mixed_AO" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/Texture/FuelCan_Mixed_AO.uasset" SILENT=true
+[2026.09.23-23.44.01:856][799]LogSavePackage: Moving output files for package: /Game/Model/Texture/FuelCan_Mixed_AO
+[2026.09.23-23.44.01:856][799]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/FuelCan_Mixed_AO2E04A271414FFA536B70CFB4BA8BF237.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/Texture/FuelCan_Mixed_AO.uasset'
+[2026.09.23-23.44.01:857][799]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/Texture/FuelCan_Normal_OpenGL] ([1] browsable assets)...
+[2026.09.23-23.44.01:863][799]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/Texture/FuelCan_Normal_OpenGL.FuelCan_Normal_OpenGL]
+[2026.09.23-23.44.01:863][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Texture/FuelCan_Normal_OpenGL]
+[2026.09.23-23.44.01:863][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Texture/FuelCan_Normal_OpenGL" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/Texture/FuelCan_Normal_OpenGL.uasset" SILENT=true
+[2026.09.23-23.44.01:974][799]LogSavePackage: Moving output files for package: /Game/Model/Texture/FuelCan_Normal_OpenGL
+[2026.09.23-23.44.01:974][799]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/FuelCan_Normal_OpenGL20E76A6F45CCC9CB198EB2A15E58B153.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/Texture/FuelCan_Normal_OpenGL.uasset'
+[2026.09.23-23.44.01:976][799]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/Texture/FuelCan_Roughness] ([1] browsable assets)...
+[2026.09.23-23.44.01:979][799]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model/Texture/FuelCan_Roughness.FuelCan_Roughness]
+[2026.09.23-23.44.01:979][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Texture/FuelCan_Roughness]
+[2026.09.23-23.44.01:979][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Texture/FuelCan_Roughness" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/Texture/FuelCan_Roughness.uasset" SILENT=true
+[2026.09.23-23.44.01:999][799]LogSavePackage: Moving output files for package: /Game/Model/Texture/FuelCan_Roughness
+[2026.09.23-23.44.01:999][799]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/FuelCan_Roughness4AB38D2541E1EB2E92D8ABAEFBB1F49B.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/Texture/FuelCan_Roughness.uasset'
+[2026.09.23-23.44.02:025][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 491.912 ms (total: 2.90 sec)
+[2026.09.23-23.44.02:116][799]LogContentValidation: Display: Starting to validate 7 assets
+[2026.09.23-23.44.02:116][799]LogContentValidation: Enabled validators:
+[2026.09.23-23.44.02:116][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-23.44.02:116][799]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-23.44.02:116][799]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-23.44.02:116][799]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-23.44.02:116][799]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-23.44.02:116][799]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-23.44.02:116][799]AssetCheck: /Game/Model/Texture/FuelCan_2D_View Validating asset
+[2026.09.23-23.44.02:117][799]AssetCheck: /Game/Model/Texture/FuelCan_Base_color Validating asset
+[2026.09.23-23.44.02:117][799]AssetCheck: /Game/Model/Texture/FuelCan_Height Validating asset
+[2026.09.23-23.44.02:117][799]AssetCheck: /Game/Model/Texture/FuelCan_Metallic Validating asset
+[2026.09.23-23.44.02:117][799]AssetCheck: /Game/Model/Texture/FuelCan_Mixed_AO Validating asset
+[2026.09.23-23.44.02:117][799]AssetCheck: /Game/Model/Texture/FuelCan_Normal_OpenGL Validating asset
+[2026.09.23-23.44.02:117][799]AssetCheck: /Game/Model/Texture/FuelCan_Roughness Validating asset
+[2026.09.23-23.44.02:196][799]LogSourceControl: Display: Uncontrolled Changelist persistency file saved F:/TheKeeperdev/TheKeeper/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.23-23.44.11:152][216]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.09.23-23.44.11:166][216]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.09.23-23.44.11:190][217]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.09.23-23.44.15:151][444]LogContentBrowser: Attempting asset rename: NewMaterial -> FuelCan
+[2026.09.23-23.44.15:151][444]LogContentBrowser: End creating deferred item NewMaterial
+[2026.09.23-23.44.16:623][513]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Model/Materials/FuelCan.FuelCan
+[2026.09.23-23.44.16:633][513]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.09.23-23.44.17:774][513]MaterialEditorStats: Texture samplers: 0/16
+[2026.09.23-23.44.17:774][513]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.09.23-23.44.17:774][513]MaterialEditorStats: Shader Count: 0
+[2026.09.23-23.44.17:774][513]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.44.18:255][515]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.09.23-23.44.18:255][515]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.09.23-23.44.18:255][515]MaterialEditorStats: Texture samplers: 1/16
+[2026.09.23-23.44.18:255][515]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.09.23-23.44.18:255][515]MaterialEditorStats: Shader Count: 5
+[2026.09.23-23.44.18:255][515]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.44.18:305][516]LogRenderer: Using fallback RTPSO
+[2026.09.23-23.44.18:334][516]LogD3D12RHI: Creating RTPSO with 33 shaders (1 cached, 0 new) took 29.14 ms. Compile time 0.12 ms, link time 28.98 ms.
+[2026.09.23-23.44.26:007][827]LogShaderCompilers: Display: Cancelled job 0x000001E33FCB5A00 with pending SubmitJob call.
+[2026.09.23-23.44.26:133][827]MaterialEditorStats: Texture samplers: 0/16
+[2026.09.23-23.44.26:133][827]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.09.23-23.44.26:133][827]MaterialEditorStats: Shader Count: 0
+[2026.09.23-23.44.26:133][827]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.44.26:228][828]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.09.23-23.44.26:228][828]MaterialEditorStats: Texture samplers: 0/16
+[2026.09.23-23.44.26:228][828]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.09.23-23.44.26:228][828]MaterialEditorStats: Shader Count: 4
+[2026.09.23-23.44.26:228][828]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.44.26:313][828]LogRenderer: Using fallback RTPSO
+[2026.09.23-23.44.26:367][829]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.09.23-23.44.26:367][829]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.09.23-23.44.26:367][829]MaterialEditorStats: Texture samplers: 1/16
+[2026.09.23-23.44.26:367][829]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.09.23-23.44.26:367][829]MaterialEditorStats: Shader Count: 5
+[2026.09.23-23.44.26:367][829]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.45.00:144][401]MaterialEditorStats: Texture samplers: 0/16
+[2026.09.23-23.45.00:144][401]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.09.23-23.45.00:144][401]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.09.23-23.45.00:144][401]MaterialEditorStats: Shader Count: 0
+[2026.09.23-23.45.00:144][401]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.45.00:791][403]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.09.23-23.45.00:792][403]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.09.23-23.45.00:792][403]MaterialEditorStats: Texture samplers: 2/16
+[2026.09.23-23.45.00:792][403]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.09.23-23.45.00:792][403]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.09.23-23.45.00:792][403]MaterialEditorStats: Shader Count: 5
+[2026.09.23-23.45.00:792][403]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.45.00:833][404]LogRenderer: Using fallback RTPSO
+[2026.09.23-23.45.00:846][405]LogD3D12RHI: Creating RTPSO with 33 shaders (1 cached, 0 new) took 12.30 ms. Compile time 0.02 ms, link time 12.25 ms.
+[2026.09.23-23.45.04:794][535]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Model/KP_FuelCan.KP_FuelCan
+[2026.09.23-23.45.04:812][535]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2026.09.23-23.45.42:475][994]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2026.09.23-23.45.42:479][994]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/WhiteboxLevels/ModelPlayhouse' took 0.189
+[2026.09.23-23.45.42:480][994]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/Materials/FuelCan] ([1] browsable assets)...
+[2026.09.23-23.45.42:578][994]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Model/Materials/FuelCan.FuelCan]
+[2026.09.23-23.45.42:578][994]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Materials/FuelCan]
+[2026.09.23-23.45.42:579][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Materials/FuelCan" FILE="F:/TheKeeperdev/TheKeeper/Saved/Autosaves/Game/Model/Materials/FuelCan_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2026.09.23-23.45.42:584][994]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Model/Materials/FuelCan_Auto5
+[2026.09.23-23.45.42:584][994]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/FuelCan_Auto5FCDB191446BEBC6EF6BF3AB8198358C7.tmp' to 'F:/TheKeeperdev/TheKeeper/Saved/Autosaves/Game/Model/Materials/FuelCan_Auto5.uasset'
+[2026.09.23-23.45.42:585][994]LogFileHelpers: Auto-saving content packages took 0.106
+[2026.09.23-23.45.50:349][367]MaterialEditorStats: Texture samplers: 0/16
+[2026.09.23-23.45.50:349][367]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.09.23-23.45.50:349][367]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.09.23-23.45.50:349][367]MaterialEditorStats: Shader Count: 0
+[2026.09.23-23.45.50:349][367]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.45.50:468][369]MaterialEditorStats: Base pass shader: 178 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.09.23-23.45.50:468][369]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.09.23-23.45.50:468][369]MaterialEditorStats: Texture samplers: 2/16
+[2026.09.23-23.45.50:468][369]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.09.23-23.45.50:468][369]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.09.23-23.45.50:468][369]MaterialEditorStats: Shader Count: 5
+[2026.09.23-23.45.50:468][369]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.45.50:579][371]LogRenderer: Using fallback RTPSO
+[2026.09.23-23.45.56:911][662]MaterialEditorStats: Texture samplers: 0/16
+[2026.09.23-23.45.56:911][662]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.09.23-23.45.56:911][662]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.09.23-23.45.56:911][662]MaterialEditorStats: Shader Count: 0
+[2026.09.23-23.45.56:911][662]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.45.57:026][664]MaterialEditorStats: Base pass shader: 182 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.09.23-23.45.57:026][664]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.09.23-23.45.57:026][664]MaterialEditorStats: Texture samplers: 3/16
+[2026.09.23-23.45.57:026][664]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.09.23-23.45.57:026][664]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.09.23-23.45.57:026][664]MaterialEditorStats: Shader Count: 5
+[2026.09.23-23.45.57:026][664]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.45.57:068][665]LogRenderer: Using fallback RTPSO
+[2026.09.23-23.46.28:855][758]MaterialEditorStats: Texture samplers: 0/16
+[2026.09.23-23.46.28:855][758]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.09.23-23.46.28:855][758]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.09.23-23.46.28:856][758]MaterialEditorStats: Shader Count: 0
+[2026.09.23-23.46.28:856][758]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.46.29:000][760]MaterialEditorStats: Base pass shader: 184 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.09.23-23.46.29:000][760]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.09.23-23.46.29:000][760]MaterialEditorStats: Texture samplers: 4/16
+[2026.09.23-23.46.29:000][760]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.09.23-23.46.29:000][760]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.09.23-23.46.29:000][760]MaterialEditorStats: Shader Count: 5
+[2026.09.23-23.46.29:000][760]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.46.29:029][761]LogRenderer: Using fallback RTPSO
+[2026.09.23-23.46.35:301][ 35]MaterialEditorStats: Texture samplers: 0/16
+[2026.09.23-23.46.35:301][ 35]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2026.09.23-23.46.35:301][ 35]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.09.23-23.46.35:301][ 35]MaterialEditorStats: Shader Count: 0
+[2026.09.23-23.46.35:301][ 35]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.46.35:419][ 37]MaterialEditorStats: Base pass shader: 192 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.09.23-23.46.35:419][ 37]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.09.23-23.46.35:419][ 37]MaterialEditorStats: Texture samplers: 5/16
+[2026.09.23-23.46.35:419][ 37]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2026.09.23-23.46.35:419][ 37]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.09.23-23.46.35:419][ 37]MaterialEditorStats: Shader Count: 5
+[2026.09.23-23.46.35:420][ 37]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.46.35:462][ 38]LogRenderer: Using fallback RTPSO
+[2026.09.23-23.46.57:112][  4]MaterialEditorStats: Texture samplers: 0/16
+[2026.09.23-23.46.57:112][  4]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2026.09.23-23.46.57:112][  4]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.09.23-23.46.57:112][  4]MaterialEditorStats: Shader Count: 0
+[2026.09.23-23.46.57:113][  4]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.46.57:274][  6]MaterialEditorStats: Base pass shader: 195 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2026.09.23-23.46.57:275][  6]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.09.23-23.46.57:275][  6]MaterialEditorStats: Texture samplers: 6/16
+[2026.09.23-23.46.57:275][  6]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2026.09.23-23.46.57:275][  6]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.09.23-23.46.57:275][  6]MaterialEditorStats: Shader Count: 5
+[2026.09.23-23.46.57:275][  6]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.46.59:167][ 87]LogEditorTransaction: Undo Create Pin Link
+[2026.09.23-23.47.00:113][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.09.23-23.47.00:356][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.09.23-23.47.00:577][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.09.23-23.47.00:814][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.09.23-23.47.01:053][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.09.23-23.47.01:297][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.09.23-23.47.01:681][ 87]MaterialEditorStats: Base pass shader: 192 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.09.23-23.47.01:681][ 87]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.09.23-23.47.01:681][ 87]MaterialEditorStats: Texture samplers: 5/16
+[2026.09.23-23.47.01:681][ 87]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2026.09.23-23.47.01:681][ 87]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.09.23-23.47.01:681][ 87]MaterialEditorStats: Shader Count: 12
+[2026.09.23-23.47.01:681][ 87]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.47.01:907][ 88]LogRenderer: Using fallback RTPSO
+[2026.09.23-23.47.06:623][280]LogMaterialEditor: Saving and Compiling material FuelCan
+[2026.09.23-23.47.06:765][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.09.23-23.47.07:000][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.09.23-23.47.07:022][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-23.47.07:114][280]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/Materials/FuelCan] ([1] browsable assets)...
+[2026.09.23-23.47.07:195][280]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Model/Materials/FuelCan.FuelCan]
+[2026.09.23-23.47.07:195][280]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Materials/FuelCan]
+[2026.09.23-23.47.07:195][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Materials/FuelCan" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/Materials/FuelCan.uasset" SILENT=true
+[2026.09.23-23.47.07:204][280]LogSavePackage: Moving output files for package: /Game/Model/Materials/FuelCan
+[2026.09.23-23.47.07:204][280]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/FuelCan14CD18FE4B1BD5F22C48A9AEBCFD0110.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/Materials/FuelCan.uasset'
+[2026.09.23-23.47.07:222][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 199.673 ms (total: 3.10 sec)
+[2026.09.23-23.47.07:313][280]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-23.47.07:313][280]LogContentValidation: Enabled validators:
+[2026.09.23-23.47.07:313][280]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-23.47.07:313][280]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-23.47.07:314][280]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-23.47.07:314][280]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-23.47.07:314][280]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-23.47.07:314][280]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-23.47.07:314][280]AssetCheck: /Game/Model/Materials/FuelCan Validating asset
+[2026.09.23-23.47.07:362][280]LogSourceControl: Display: Uncontrolled Changelist persistency file saved F:/TheKeeperdev/TheKeeper/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.23-23.47.07:372][281]LogRenderer: Using fallback RTPSO
+[2026.09.23-23.47.16:144][657]LogMaterial: Display: Material /Game/Model/Materials/FuelCan.FuelCan needed to have new flag set bUsedWithNanite !
+[2026.09.23-23.47.16:145][657]LogMaterial: Display: Material /Engine/Transient.FuelCan needed to have new flag set bUsedWithNanite !
+[2026.09.23-23.47.16:246][657]MaterialEditorStats: Texture samplers: 0/16
+[2026.09.23-23.47.16:246][657]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2026.09.23-23.47.16:246][657]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.09.23-23.47.16:246][657]MaterialEditorStats: Shader Count: 0
+[2026.09.23-23.47.16:246][657]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.47.16:304][658]MaterialEditorStats: Base pass shader: 192 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.09.23-23.47.16:304][658]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.09.23-23.47.16:304][658]MaterialEditorStats: Nanite Compute Shader: 850 instructions
+Stats: Resources Used: 13
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.09.23-23.47.16:304][658]MaterialEditorStats: Texture samplers: 5/16
+[2026.09.23-23.47.16:304][658]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2026.09.23-23.47.16:304][658]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.09.23-23.47.16:304][658]MaterialEditorStats: Shader Count: 19
+[2026.09.23-23.47.16:304][658]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.09.23-23.47.16:316][658]LogRenderer: Using fallback RTPSO
+[2026.09.23-23.47.33:936][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.23-23.47.34:034][466]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model/KP_FuelCan] ([1] browsable assets)...
+[2026.09.23-23.47.34:049][466]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model/KP_FuelCan.KP_FuelCan]
+[2026.09.23-23.47.34:049][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/KP_FuelCan]
+[2026.09.23-23.47.34:049][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/KP_FuelCan" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/KP_FuelCan.uasset" SILENT=true
+[2026.09.23-23.47.34:056][466]LogSavePackage: Moving output files for package: /Game/Model/KP_FuelCan
+[2026.09.23-23.47.34:057][466]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/KP_FuelCan794945234A2B83D82F29D5B034978304.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/KP_FuelCan.uasset'
+[2026.09.23-23.47.34:075][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 139.547 ms (total: 3.24 sec)
+[2026.09.23-23.47.34:166][466]LogContentValidation: Display: Starting to validate 1 assets
+[2026.09.23-23.47.34:166][466]LogContentValidation: Enabled validators:
+[2026.09.23-23.47.34:166][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.23-23.47.34:166][466]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.23-23.47.34:166][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.23-23.47.34:166][466]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.23-23.47.34:166][466]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.23-23.47.34:166][466]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.23-23.47.34:166][466]AssetCheck: /Game/Model/KP_FuelCan Validating asset
+[2026.09.23-23.47.39:390][609]LogSlate: Window 'Message' being destroyed
+[2026.09.23-23.47.39:404][609]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Model/Materials/Wood.Wood
+(Selecting 'No' will cause all changes to be lost!)
+[2026.09.23-23.47.39:558][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.09.23-23.47.39:799][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.09.23-23.47.40:701][609]LogSlate: Window 'Message' being destroyed
+[2026.09.23-23.47.40:731][609]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Model/Materials/Roof.Roof
+(Selecting 'No' will cause all changes to be lost!)
+[2026.09.23-23.47.40:883][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.09.23-23.47.41:121][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.09.23-23.47.41:176][609]LogSlate: Window 'KP_FuelCan' being destroyed
+[2026.09.23-23.47.41:182][609]LogSlate: Window 'KP_FuelCan' being destroyed
+[2026.09.23-23.47.41:265][609]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-23.47.41:265][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-23.47.41:419][609]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-23.47.41:419][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-23.47.41:541][609]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-23.47.41:541][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-23.47.41:651][609]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-23.47.41:651][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-23.47.41:738][609]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-23.47.41:738][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-23.47.41:818][609]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.09.23-23.47.41:818][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.23-23.47.41:981][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2026.09.23-23.47.42:060][610]LogRenderer: Using fallback RTPSO
