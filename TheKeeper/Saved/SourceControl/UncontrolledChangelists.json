@@ -6,6 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Content/Materials/Landscape.uasset",
+				"C:/Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/FS/5VIVIYK8SC30700DJEO36H.uasset",
+				"C:/Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Content/Materials/Dirt_LayerInfo.uasset",
+				"C:/Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Content/Materials/Grass_LayerInfo.uasset",
+				"C:/Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Content/Materials/Rock_LayerInfo.uasset",
 				"F:/TheKeeperdev/TheKeeper/Content/Model/Stairtest.uasset",
 				"F:/TheKeeperdev/TheKeeper/Content/Model/Towertest01.uasset",
 				"F:/TheKeeperdev/TheKeeper/Content/Model/Towertest02.uasset",
