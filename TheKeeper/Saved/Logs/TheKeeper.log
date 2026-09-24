@@ -5703,3 +5703,8 @@ FPackageName: Skipped package /Game/Model/Black has a valid, mounted, mount poin
 [2026.09.24-17.44.03:202][911]LogEditorTransaction: Undo Rotate Elements
 [2026.09.24-17.44.03:835][915]Cmd: TRANSACTION UNDO
 [2026.09.24-17.44.03:836][915]LogEditorTransaction: Undo Move Elements
+[2026.09.24-17.44.32:042][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.09.24-17.44.32:059][209]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/OK/NDYWJIENXK7DNT16ILU5ES_Auto7
+[2026.09.24-17.44.32:059][209]LogSavePackage: Moving '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/NDYWJIENXK7DNT16ILU5ES_Auto7A65B5ADC4C34B5A5EC661BB25595844E.tmp' to '../../../../../../Users/blave/OneDrive/Documents/GitHub/TheKeeperdev/TheKeeper/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/OK/NDYWJIENXK7DNT16ILU5ES_Auto7.uasset'
+[2026.09.24-17.44.32:066][209]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.065
+[2026.09.24-17.44.32:066][209]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
