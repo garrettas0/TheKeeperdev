@@ -1,5 +1,3 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
 #pragma once
 
 #include "CoreMinimal.h"
@@ -10,17 +8,19 @@ UCLASS()
 class THEKEEPER_API AFuelMinigameComponent : public AActor
 {
 	GENERATED_BODY()
-	
-public:	
-	// Sets default values for this actor's properties
+
+public:
 	AFuelMinigameComponent();
 
-protected:
-	// Called when the game starts or when spawned
-	virtual void BeginPlay() override;
+	// Starts the fuel pouring minigame
+	UFUNCTION(BlueprintCallable, Category = "Fuel Minigame")
+	void StartMinigame();
 
-public:	
-	// Called every frame
-	virtual void Tick(float DeltaTime) override;
+	// Stops the minigame
+	UFUNCTION(BlueprintCallable, Category = "Fuel Minigame")
+	void StopMinigame();
 
+	// Whether the minigame is currently running
+	UPROPERTY(BlueprintReadOnly, Category = "Fuel Minigame")
+	bool bIsMinigameActive = false;
 };

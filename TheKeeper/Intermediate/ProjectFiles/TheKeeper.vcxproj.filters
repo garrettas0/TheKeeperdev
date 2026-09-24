@@ -47,5 +47,6 @@
     <ClInclude Include="..\..\Source\TheKeeper\TheKeeper.h">
       <Filter>Source\TheKeeper</Filter>
     </ClInclude>
+    <None Include="cpp.hint" />
   </ItemGroup>
 </Project>

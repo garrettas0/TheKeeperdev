@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheKeeperModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b096ffda81e401ad6ef3ffb11bd0f4e1481bb52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b6fc3d70477f1a7122166126d96904e39785467")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheKeeperModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheKeeperModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
