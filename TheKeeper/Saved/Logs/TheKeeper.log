@@ -1857,3 +1857,108 @@ Sampler Limit: 32
 [2026.09.24-03.00.08:210][354]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
 [2026.09.24-03.00.08:210][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.09.24-03.00.08:255][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.09.24-03.02.42:784][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.09.24-03.02.44:299][587]LogSlate: Window 'Save Content' being destroyed
+[2026.09.24-03.02.44:326][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.09.24-03.02.44:428][587]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Model/Materials/Foghorn] ([1] browsable assets)...
+[2026.09.24-03.02.44:428][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Materials/Foghorn]
+[2026.09.24-03.02.44:428][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Materials/Foghorn" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/Materials/Foghorn.uasset" SILENT=true
+[2026.09.24-03.02.44:432][587]LogSavePackage: Moving output files for package: /Game/Model/Materials/Foghorn
+[2026.09.24-03.02.44:434][587]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/Foghorn0E2A41DF472CAD44BF64639B61B1EF60.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/Materials/Foghorn.uasset'
+[2026.09.24-03.02.44:436][587]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Model/Texture/Foghorn_2D_View] ([1] browsable assets)...
+[2026.09.24-03.02.44:436][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Texture/Foghorn_2D_View]
+[2026.09.24-03.02.44:436][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Texture/Foghorn_2D_View" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/Texture/Foghorn_2D_View.uasset" SILENT=true
+[2026.09.24-03.02.44:497][587]LogSavePackage: Moving output files for package: /Game/Model/Texture/Foghorn_2D_View
+[2026.09.24-03.02.44:497][587]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/Foghorn_2D_View1AB91E5F473C22156CEB6590009B2670.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/Texture/Foghorn_2D_View.uasset'
+[2026.09.24-03.02.44:498][587]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Model/Texture/Foghorn_Height] ([1] browsable assets)...
+[2026.09.24-03.02.44:498][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Texture/Foghorn_Height]
+[2026.09.24-03.02.44:498][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Texture/Foghorn_Height" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/Texture/Foghorn_Height.uasset" SILENT=true
+[2026.09.24-03.02.44:517][587]LogSavePackage: Moving output files for package: /Game/Model/Texture/Foghorn_Height
+[2026.09.24-03.02.44:517][587]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/Foghorn_Height0D5EDE9242B8D4EB4B1FA89F52EBCD9D.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/Texture/Foghorn_Height.uasset'
+[2026.09.24-03.02.44:519][587]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Model/Texture/Foghorn_Metallic] ([1] browsable assets)...
+[2026.09.24-03.02.44:519][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Texture/Foghorn_Metallic]
+[2026.09.24-03.02.44:519][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Texture/Foghorn_Metallic" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/Texture/Foghorn_Metallic.uasset" SILENT=true
+[2026.09.24-03.02.44:531][587]LogSavePackage: Moving output files for package: /Game/Model/Texture/Foghorn_Metallic
+[2026.09.24-03.02.44:531][587]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/Foghorn_Metallic9F7934934930BE6993BBDBB01CEA31B3.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/Texture/Foghorn_Metallic.uasset'
+[2026.09.24-03.02.44:532][587]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Model/Texture/Foghorn_Mixed_AO] ([1] browsable assets)...
+[2026.09.24-03.02.44:532][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Texture/Foghorn_Mixed_AO]
+[2026.09.24-03.02.44:532][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Texture/Foghorn_Mixed_AO" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/Texture/Foghorn_Mixed_AO.uasset" SILENT=true
+[2026.09.24-03.02.44:552][587]LogSavePackage: Moving output files for package: /Game/Model/Texture/Foghorn_Mixed_AO
+[2026.09.24-03.02.44:553][587]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/Foghorn_Mixed_AO9714EEC74DE4228FEE3AC08978032EAE.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/Texture/Foghorn_Mixed_AO.uasset'
+[2026.09.24-03.02.44:553][587]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Model/Texture/Foghorn_Normal_OpenGL] ([1] browsable assets)...
+[2026.09.24-03.02.44:555][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model/Texture/Foghorn_Normal_OpenGL]
+[2026.09.24-03.02.44:555][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model/Texture/Foghorn_Normal_OpenGL" FILE="F:/TheKeeperdev/TheKeeper/Content/Model/Texture/Foghorn_Normal_OpenGL.uasset" SILENT=true
+[2026.09.24-03.02.44:644][587]LogSavePackage: Moving output files for package: /Game/Model/Texture/Foghorn_Normal_OpenGL
+[2026.09.24-03.02.44:644][587]LogSavePackage: Moving 'F:/TheKeeperdev/TheKeeper/Saved/Foghorn_Normal_OpenGLC3D91F1B4650BF116DD8A8A062873C21.tmp' to 'F:/TheKeeperdev/TheKeeper/Content/Model/Texture/Foghorn_Normal_OpenGL.uasset'
+[2026.09.24-03.02.44:664][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 337.292 ms (total: 915.350 ms)
+[2026.09.24-03.02.44:745][587]LogStall: Shutdown...
+[2026.09.24-03.02.44:745][587]LogStall: Shutdown complete.
+[2026.09.24-03.02.44:826][587]LogSlate: Window 'TheKeeper - Unreal Editor' being destroyed
+[2026.09.24-03.02.45:038][587]LogContentValidation: Display: Starting to validate 6 assets
+[2026.09.24-03.02.45:038][587]LogContentValidation: Enabled validators:
+[2026.09.24-03.02.45:038][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.09.24-03.02.45:038][587]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.09.24-03.02.45:038][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.09.24-03.02.45:038][587]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.09.24-03.02.45:038][587]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.09.24-03.02.45:038][587]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.09.24-03.02.45:038][587]AssetCheck: /Game/Model/Materials/Foghorn Validating asset
+[2026.09.24-03.02.45:039][587]AssetCheck: /Game/Model/Texture/Foghorn_2D_View Validating asset
+[2026.09.24-03.02.45:039][587]AssetCheck: /Game/Model/Texture/Foghorn_Height Validating asset
+[2026.09.24-03.02.45:039][587]AssetCheck: /Game/Model/Texture/Foghorn_Metallic Validating asset
+[2026.09.24-03.02.45:039][587]AssetCheck: /Game/Model/Texture/Foghorn_Mixed_AO Validating asset
+[2026.09.24-03.02.45:039][587]AssetCheck: /Game/Model/Texture/Foghorn_Normal_OpenGL Validating asset
+[2026.09.24-03.02.45:042][587]Cmd: QUIT_EDITOR
+[2026.09.24-03.02.45:042][587]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.09.24-03.02.45:050][587]LogSourceControl: Display: Uncontrolled Changelist persistency file saved F:/TheKeeperdev/TheKeeper/Saved/SourceControl/UncontrolledChangelists.json
+[2026.09.24-03.02.45:073][588]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.09.24-03.02.45:075][588]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.09.24-03.02.45:075][588]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.09.24-03.02.45:076][588]LogWorld: UWorld::CleanupWorld for ModelPlayhouse, bSessionEnded=true, bCleanupResources=true
+[2026.09.24-03.02.45:076][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-03.02.45:118][588]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.09.24-03.02.45:119][588]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.09.24-03.02.45:119][588]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.09.24-03.02.45:125][588]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.09.24-03.02.45:126][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-03.02.45:126][588]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.09.24-03.02.45:126][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.09.24-03.02.45:126][588]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.09.24-03.02.45:127][588]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.09.24-03.02.45:131][588]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.09.24-03.02.45:134][588]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.09.24-03.02.45:134][588]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.09.24-03.02.45:134][588]LogAudio: Display: Audio Device unregistered from world 'ModelPlayhouse'.
+[2026.09.24-03.02.45:134][588]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.09.24-03.02.45:134][588]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.09.24-03.02.45:139][588]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.09.24-03.02.45:149][588]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.09.24-03.02.45:149][588]LogAudio: Display: Audio Device Manager Shutdown
+[2026.09.24-03.02.45:159][588]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.09.24-03.02.45:160][588]LogExit: Preparing to exit.
+[2026.09.24-03.02.45:306][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.09.24-03.02.46:199][588]LogEditorDataStorage: Deinitializing
+[2026.09.24-03.02.46:320][588]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.09.24-03.02.46:354][588]LogExit: Editor shut down
+[2026.09.24-03.02.46:360][588]LogExit: Transaction tracking system shut down
+[2026.09.24-03.02.46:587][588]LogExit: Object subsystem successfully closed.
+[2026.09.24-03.02.46:634][588]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.09.24-03.02.46:932][588]LogMemoryProfiler: Shutdown
+[2026.09.24-03.02.46:932][588]LogNetworkingProfiler: Shutdown
+[2026.09.24-03.02.46:932][588]LoadingProfiler: Shutdown
+[2026.09.24-03.02.46:932][588]LogTimingProfiler: Shutdown
+[2026.09.24-03.02.46:933][588]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.09.24-03.02.46:933][588]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.09.24-03.02.47:346][588]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.09.24-03.02.47:346][588]RenderDocPlugin: plugin has been unloaded.
+[2026.09.24-03.02.47:375][588]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.09.24-03.02.47:375][588]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3D212930-4240-DE2C-AA74-A49E7FD27E9A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=e3fbe70e4ee9dedfc7fb63b7c8e6c559%7C07a90a4ffd0240fb9f18a46ad9d59311%7Cfdc5de86-3a94-464a-8a80-d4734bc8dbd6&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.09.24-03.02.47:926][588]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.09.24-03.02.47:948][588]LogNFORDenoise: NFORDenoise function shutting down
+[2026.09.24-03.02.47:949][588]LogXGEController: Cleaning working directory: C:/Users/garre/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.09.24-03.02.47:955][588]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.09.24-03.02.47:955][588]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.09.24-03.02.47:955][588]LogPakFile: Destroying PakPlatformFile
+[2026.09.24-03.02.48:836][588]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.09.24-03.02.49:182][588]LogExit: Exiting.
+[2026.09.24-03.02.49:224][588]Log file closed, 09/23/26 23:02:49
